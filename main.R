@@ -2,8 +2,8 @@ library("haven")
 library("stats")
 
 za_main <- read_sav("ZA7716_main_v1-0-0.sav")
-za_main_sub <- za_main[, c("t6", "t2", "t45", "t80", "t40", "t70", "t50")]
-colnames(za_main_sub) <- c("DemSatis", "Alter", "FreqPolTalk", "IntUsage", "IntUsagePol", "haushaltSal", "haushaltSize")
+za_main_sub <- za_main[, c("t6", "t2", "t45", "t80", "t40", "t70", "t50", "t21", "t145")]
+colnames(za_main_sub) <- c("DemSatis", "Alter", "FreqPolTalk", "IntUsage", "IntUsagePol", "HaushaltSal", "HaushaltSize", "WirtLagePers", "WirtLageReg")
 za_main_sub$Alter <- gsub("1959 und frueher", "1959", za_main_sub$Alter)
 za_main_sub$Alter <- as.integer(format(Sys.Date(), "%Y")) - as.integer(za_main_sub$Alter)
 za_main_sub[] <- lapply(za_main_sub, as.integer)

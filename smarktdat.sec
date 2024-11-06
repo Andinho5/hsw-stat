@@ -1,0 +1,638 @@
+"shop" "spen_yr" "th_pay" "car1" "bus1" "q08a" "q08b" "q08c" "q08d" "q08e" "q08f" "q08g" "q08h" "q08i" "q08j" "q08k" "q08l" "q08m" "q08n" "q08q" "q08r" "q08s" "q08t" "q08u" "q08v" "satisfac" "dist" "sex" "age" "pay" "sh_tesc" "sh_kwik" "sh_sains" "sh_solo" "sh_asda" "sh_icel" "sh_gate" "sh_safe" "sh_loco" "sh_other"
+"Solo" 1680 NA "yes" NA 3 1 1 NA 3 3 1 4 4 4 5 4 3 4 5 5 5 5 2 1 5 "1-5 miles" "weiblich" 2 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 1680 NA "yes" NA 3 1 1 NA 3 3 1 4 4 4 5 4 3 4 5 5 5 5 2 1 5 "1-5 miles" "weiblich" 2 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 2160 NA "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 1 "<1 mile" "männlich" 1 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 3600 NA "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "<1 mile" NA 2 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" NA 80 "yes" NA NA 3 2 3 3 3 3 3 3 3 1 3 3 NA 4 5 1 NA 5 2 NA "<1 mile" NA 4 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 2100 80 "no" NA NA 1 1 1 1 1 5 1 5 3 3 1 1 1 3 5 3 1 1 1 5 "<1 mile" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 1680 80 "no" 1 5 5 5 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 7 "<1 mile" "weiblich" NA 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 2880 125 "no" 2 NA NA 3 NA NA NA NA NA 3 NA NA 3 NA NA NA 3 3 NA NA NA 4 "<1 mile" "weiblich" 2 3 0 0 0 1 0 0 0 0 0 0
+"Solo" 480 60 "no" 2 NA 2 2 1 1 1 1 1 5 3 3 4 4 4 5 5 4 4 5 1 7 "<1 mile" "weiblich" 3 1 0 0 0 1 0 0 0 0 0 0
+"Solo" 3360 200 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "1-5 miles" "weiblich" 4 4 0 0 0 1 0 0 0 0 0 0
+"Solo" 2880 200 "no" 2 1 4 2 1 1 1 3 5 NA 3 2 1 3 1 2 3 NA 3 2 2 6 "<1 mile" "weiblich" 3 4 0 0 0 1 0 0 0 0 0 0
+"Kwik Save" 840 NA "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "1-5 miles" "weiblich" 4 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1260 NA "yes" NA NA 4 4 NA 5 3 4 5 5 5 5 5 5 4 5 5 5 4 5 NA 1 "1-5 miles" "männlich" 4 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1260 NA "yes" NA NA 4 4 NA 5 3 4 5 5 5 5 5 5 4 5 5 5 4 5 NA 1 "1-5 miles" "männlich" 4 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 NA "yes" NA NA NA 5 NA 5 3 5 5 5 1 1 1 NA 1 5 4 4 4 NA NA 5 "1-5 miles" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3000 NA "yes" NA NA 1 3 1 1 1 1 3 3 3 2 4 3 4 4 5 5 4 4 1 4 "1-5 miles" NA 3 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3000 NA "yes" NA NA 1 3 1 1 1 1 3 3 3 2 4 3 4 4 5 5 4 4 1 4 "1-5 miles" NA 3 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3360 NA "yes" NA 1 NA NA 5 NA 5 5 5 5 5 5 5 5 5 5 5 5 5 5 NA NA "<1 mile" "weiblich" 5 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 NA "yes" NA 1 2 4 1 4 1 5 NA 5 3 5 4 5 NA 5 5 5 5 5 1 4 "1-5 miles" "weiblich" NA NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1800 80 "yes" NA NA 1 5 5 1 2 5 5 5 5 2 5 3 3 5 5 5 2 2 1 5 "1-5 miles" "weiblich" 1 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "no" 2 NA 1 NA NA NA NA NA 1 1 NA NA NA NA NA NA 4 NA NA 4 NA NA NA "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "no" 2 2 5 5 1 1 1 5 1 5 5 5 5 5 5 4 NA 3 3 5 1 7 "1-5 miles" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "no" 2 2 5 5 1 1 1 5 1 5 5 5 5 5 5 4 NA 3 3 5 1 7 "1-5 miles" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 2160 125 "yes" NA 1 3 4 1 1 1 5 5 5 5 4 4 4 2 NA 4 4 2 3 1 5 "1-5 miles" "weiblich" NA 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1440 125 "yes" 2 1 2 4 2 2 1 4 5 5 3 3 4 4 4 4 5 5 5 5 1 6 "1-5 miles" "weiblich" 5 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 200 "yes" NA NA 2 1 4 3 2 3 5 5 4 4 3 4 4 5 3 5 5 4 1 4 "1-5 miles" "männlich" 4 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 200 "no" 2 1 1 1 4 1 1 1 NA 3 3 2 1 1 5 3 5 5 5 5 5 7 "1-5 miles" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 720 125 "yes" NA NA 1 NA 1 1 1 5 5 3 2 NA 1 1 3 4 5 NA 3 3 NA 5 "1-5 miles" "männlich" 5 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 2100 200 "yes" NA 2 NA 5 4 4 3 4 5 5 5 4 5 5 3 5 4 5 5 5 4 5 "1-5 miles" "weiblich" 5 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 200 "yes" 2 1 1 1 1 1 1 1 5 5 5 5 5 5 5 5 5 NA 5 5 1 5 "<1 mile" "weiblich" 2 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1440 200 "yes" 2 2 5 5 1 5 1 3 5 5 NA 3 5 5 3 4 4 2 2 2 NA 5 "1-5 miles" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 375 "yes" NA NA 1 1 1 5 3 4 4 4 4 2 4 4 4 5 5 5 4 5 1 5 "1-5 miles" "weiblich" 3 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" NA 60 "yes" NA 3 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 1 NA NA NA 3 "<1 mile" "männlich" 1 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" NA 125 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "1-5 miles" NA 3 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 NA NA NA NA NA NA NA NA NA 4 NA 4 4 4 4 NA 4 NA NA NA NA NA 4 NA "1-5 miles" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 1 3 2 1 1 1 3 NA 4 4 NA 3 3 2 4 3 4 4 3 1 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 1 1 5 NA 5 NA 5 5 NA 5 5 5 3 5 4 5 5 5 NA NA 5 "5-10 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "no" 1 3 1 2 1 1 5 3 2 5 NA 5 3 3 4 5 5 5 5 3 5 5 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "<1 mile" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" NA 2 2 NA 4 NA 1 3 NA 3 4 4 3 3 4 5 4 5 4 3 2 7 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 NA NA 1 1 5 4 2 5 3 4 5 4 5 5 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" NA NA NA NA NA NA 2 3 NA NA 4 4 4 4 4 4 5 5 5 5 NA 7 "5-10 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 NA NA 1 1 5 4 2 5 3 4 5 4 5 5 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 5040 NA "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 5 NA NA NA NA NA "1-5 miles" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 60 "yes" NA 2 4 2 1 1 1 2 3 2 2 2 3 3 1 NA 2 2 3 2 1 7 "1-5 miles" "weiblich" 5 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 60 "no" 2 NA 3 4 2 1 2 2 5 3 4 3 4 4 3 4 3 4 3 3 3 5 "1-5 miles" "männlich" 1 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1440 60 "yes" NA NA NA 1 NA 1 1 NA 1 1 NA 1 NA 1 NA NA NA NA NA NA NA 3 "1-5 miles" "weiblich" 5 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1440 60 "yes" NA NA NA 2 NA NA NA 3 2 NA NA NA 2 2 NA 2 1 3 2 2 NA 3 "<1 mile" "weiblich" 2 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 125 "yes" NA NA 1 1 1 1 1 NA NA 5 NA NA 5 NA 1 NA 5 NA NA NA NA 7 "1-5 miles" "weiblich" 3 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 125 "yes" 2 2 1 1 1 5 1 5 5 4 NA 4 4 5 4 4 5 5 5 1 NA 7 "1-5 miles" "weiblich" 3 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 125 "no" 2 4 1 3 1 1 1 3 1 4 4 5 3 3 4 4 3 5 3 NA 1 5 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 125 "yes" NA NA 3 5 4 3 4 4 5 2 3 4 4 4 4 4 4 4 4 3 1 6 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 60 "yes" NA NA 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 NA "<1 mile" NA 1 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 80 "no" 2 NA 2 1 1 1 1 1 1 5 4 4 5 4 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 540 80 NA NA NA 5 NA NA NA NA NA NA NA NA NA 5 5 NA 5 NA 5 5 5 NA 6 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 540 80 NA NA NA 5 NA NA NA NA NA NA NA NA NA 5 5 NA 5 NA 5 5 5 NA 6 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 240 80 "yes" NA 1 1 5 1 1 1 1 4 4 2 4 5 4 1 5 5 4 3 4 1 6 "1-5 miles" "männlich" 4 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" NA NA 1 4 1 4 1 2 5 5 3 2 3 3 3 3 3 4 4 4 1 6 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 5 4 3 3 5 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" NA NA 1 4 1 4 1 2 5 5 3 2 3 3 3 3 3 4 4 4 1 6 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1200 125 "no" 2 NA NA 5 NA NA NA NA NA NA 5 5 5 5 NA 5 5 NA NA NA NA 5 "1-5 miles" "männlich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 900 125 "yes" 2 1 1 1 1 1 1 1 3 3 1 1 4 4 1 5 NA 5 NA NA NA 4 "1-5 miles" "männlich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 125 "yes" 1 NA 3 5 1 3 2 3 5 5 5 3 3 5 4 5 5 5 5 5 3 5 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 125 "yes" 1 NA 3 5 1 3 2 3 5 5 5 3 3 5 4 5 5 5 5 5 3 5 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 200 "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 200 "no" 2 4 2 3 1 1 2 5 2 5 3 5 4 4 5 4 5 5 3 3 1 6 "1-5 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 5 "<1 mile" "männlich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" NA NA 5 3 5 1 2 5 3 4 4 5 4 4 5 2 3 3 3 3 5 1 "1-5 miles" "männlich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 200 "no" 1 1 1 3 1 3 3 3 NA 4 4 5 3 3 5 5 5 5 5 4 3 4 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 200 "no" 1 1 1 3 1 3 3 3 NA 4 4 5 3 3 5 5 5 5 5 4 3 4 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA NA 5 5 1 4 5 1 1 2 1 1 1 1 1 1 1 4 1 1 5 NA NA "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA NA 1 1 1 5 1 4 5 5 5 4 5 5 2 5 4 5 5 5 1 7 "1-5 miles" "weiblich" 4 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3000 375 "no" 1 NA 2 2 2 2 2 3 2 5 4 5 4 4 5 5 5 5 4 3 5 6 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 375 "yes" NA NA 1 4 1 1 1 3 3 5 3 2 2 2 2 4 5 3 3 1 1 5 "1-5 miles" "männlich" 1 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" NA 1 NA 5 4 3 1 4 4 5 4 3 3 3 2 4 4 3 4 3 1 7 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1260 375 "yes" NA 4 2 2 2 4 NA 5 5 5 3 3 4 5 5 4 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 12000 750 "yes" NA NA 1 3 3 3 3 2 5 5 4 4 4 4 4 4 4 5 5 4 1 5 "1-5 miles" "weiblich" 3 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "yes" NA NA 3 1 1 3 1 3 4 4 3 3 4 4 3 4 3 5 4 3 1 6 "1-5 miles" "weiblich" 3 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1800 625 "yes" NA NA 4 3 5 3 3 3 4 4 4 4 4 4 4 4 3 4 4 4 1 6 "1-5 miles" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1800 625 "yes" NA NA 4 3 5 3 3 3 4 4 4 4 4 4 4 4 3 4 4 4 1 6 "1-5 miles" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2700 750 "yes" NA NA 3 2 1 1 1 3 5 4 4 3 4 4 3 5 4 5 5 4 1 7 "1-5 miles" "weiblich" 4 7 1 0 0 0 0 0 0 0 0 0
+"gateway" 1680 80 "yes" 1 2 2 2 2 2 2 5 2 5 5 5 5 5 2 NA 5 5 2 5 1 7 "1-5 miles" "weiblich" 5 2 0 0 0 0 0 0 1 0 0 0
+"gateway" 1680 80 "yes" 1 2 2 2 2 2 2 5 2 5 5 5 5 5 2 NA 5 5 2 5 1 7 "1-5 miles" "weiblich" 5 2 0 0 0 0 0 0 1 0 0 0
+"gateway" 5040 200 "no" 2 3 1 3 3 1 1 1 1 5 3 3 3 2 2 NA 5 2 2 2 1 7 "<1 mile" "männlich" 5 4 0 0 0 0 0 0 1 0 0 0
+"gateway" 2160 125 "yes" 2 NA NA 4 5 2 1 4 4 4 4 3 3 3 NA 5 5 4 3 3 1 4 "1-5 miles" "weiblich" 2 3 0 0 0 0 0 0 1 0 0 0
+"Iceland" NA 80 "yes" NA 2 5 4 1 2 1 4 5 5 4 3 4 5 3 3 5 5 4 5 1 6 "1-5 miles" "weiblich" 5 2 0 0 0 0 0 1 0 0 0 0
+"Iceland" 720 NA "no" 2 1 1 1 5 1 5 4 5 5 5 5 5 5 4 5 5 5 5 4 1 7 "1-5 miles" "weiblich" 2 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 720 NA "no" 2 1 1 1 5 1 5 4 5 5 5 5 5 5 4 5 5 5 5 4 1 7 "1-5 miles" "weiblich" 2 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1680 NA "no" 2 5 NA 4 5 1 3 3 1 5 3 2 5 4 5 3 5 5 5 3 1 4 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1680 NA "no" 2 5 NA 4 5 1 3 3 1 5 3 2 5 4 5 3 5 5 5 3 1 4 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 2880 NA "yes" 2 5 5 1 NA NA NA 1 NA 5 5 5 5 4 3 5 3 5 5 5 NA 7 "1-5 miles" "weiblich" NA NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 3360 NA "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "1-5 miles" "weiblich" 4 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 2160 60 "no" 2 NA 1 NA NA NA NA 1 NA 1 NA NA 1 NA NA 1 1 NA 1 1 NA 5 "1-5 miles" "weiblich" 5 1 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1440 60 "no" 2 NA NA 5 NA NA NA NA NA 5 NA NA 5 5 NA NA 5 5 5 5 NA NA "<1 mile" "weiblich" 5 1 0 0 0 0 0 1 0 0 0 0
+"Sainsburys" NA NA "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 5 NA NA NA NA NA "1-5 miles" "weiblich" 3 NA 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 900 NA "yes" NA 2 1 4 4 4 2 1 4 4 4 4 4 4 4 4 5 5 4 5 4 7 "1-5 miles" "männlich" 5 NA 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 3600 80 "yes" NA NA 1 2 NA 1 1 4 1 4 4 4 3 3 5 5 5 5 5 3 3 NA "5-10 miles" "weiblich" 5 2 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 1680 125 "yes" NA 1 2 4 1 4 NA 1 4 4 1 4 4 4 1 4 1 5 5 5 1 6 "1-5 miles" "weiblich" 5 3 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 1680 125 "yes" NA 1 1 1 1 1 1 1 5 4 4 NA 5 5 5 4 5 5 5 NA NA NA "1-5 miles" "weiblich" 5 3 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 3000 200 "yes" NA NA 5 5 2 1 1 4 4 3 3 5 4 4 5 5 5 4 4 4 1 7 "1-5 miles" "weiblich" 3 4 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 1680 200 "yes" 2 3 3 5 1 1 1 1 1 5 5 3 5 5 5 NA 5 NA NA NA 5 6 "1-5 miles" "weiblich" 5 4 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 840 200 "yes" NA NA 1 2 4 4 2 4 5 5 5 4 5 4 4 5 5 5 2 5 4 5 "1-5 miles" "weiblich" 4 4 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA NA 1 2 1 1 2 1 5 3 3 1 2 3 3 3 4 4 4 3 1 6 "1-5 miles" "weiblich" NA 5 0 0 1 0 0 0 0 0 0 0
+"Asda" NA 60 "yes" NA NA 4 4 4 4 4 4 4 4 4 4 NA 4 4 NA 5 4 4 1 1 NA "5-10 miles" "weiblich" 2 1 0 0 0 0 1 0 0 0 0 0
+"Asda" 3360 NA "no" 1 NA 1 3 1 1 5 1 1 3 4 1 5 5 5 3 3 5 5 5 5 7 "5-10 miles" "weiblich" 5 NA 0 0 0 0 1 0 0 0 0 0
+"Asda" 1260 80 "no" 1 3 1 NA 1 1 3 4 1 NA NA NA 4 4 5 5 4 5 3 2 5 5 "1-5 miles" "weiblich" 5 2 0 0 0 0 1 0 0 0 0 0
+"Asda" 1260 80 "no" 1 3 1 NA 1 1 3 4 1 NA NA NA 4 4 5 5 4 5 3 2 5 5 "1-5 miles" "weiblich" 5 2 0 0 0 0 1 0 0 0 0 0
+"Asda" 1260 125 "yes" NA NA 1 5 1 5 1 NA 5 5 5 5 5 5 5 5 5 5 5 5 1 NA "1-5 miles" "weiblich" 5 3 0 0 0 0 1 0 0 0 0 0
+"Asda" 1680 375 "no" NA 1 1 3 1 1 1 1 5 1 1 NA 5 5 5 5 5 5 NA 5 1 7 "1-5 miles" "männlich" 5 5 0 0 0 0 1 0 0 0 0 0
+"Co-op" 1440 80 "no" 2 NA NA 1 NA NA NA NA 1 NA NA NA 1 1 NA NA 1 1 NA 1 NA 7 "1-5 miles" "weiblich" 2 2 0 0 0 0 0 0 0 0 0 1
+"Somerfields" 540 NA "no" 2 1 NA NA NA NA NA NA NA 4 NA NA 4 4 1 3 5 3 4 1 NA 1 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 0 0 0 0 1
+"Somerfields" 2160 NA "no" NA NA 4 1 1 1 1 1 1 5 5 5 5 5 5 5 5 5 5 5 5 4 "<1 mile" "weiblich" 5 NA 0 0 0 0 0 0 0 0 0 1
+"Somerfields" 1680 80 "no" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 7 "5-10 miles" "weiblich" 4 2 0 0 0 0 0 0 0 0 0 1
+"Safeway" 1680 NA "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 7 "1-5 miles" "weiblich" 5 NA 0 0 0 0 0 0 0 1 0 0
+"Safeway" 3600 NA "yes" NA NA 1 2 1 2 2 5 5 5 4 4 4 4 2 5 5 5 5 5 2 6 "1-5 miles" "männlich" 5 NA 0 0 0 0 0 0 0 1 0 0
+"Safeway" 6720 200 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 6 "<1 mile" "weiblich" 2 4 0 0 0 0 0 0 0 1 0 0
+"Safeway" 3600 125 "yes" NA NA 5 4 4 3 3 3 5 5 5 5 5 4 5 5 5 4 4 4 NA 7 "1-5 miles" "weiblich" 2 3 0 0 0 0 0 0 0 1 0 0
+"Safeway" 840 80 "yes" NA NA 1 1 1 5 1 5 5 5 4 5 5 5 5 4 4 4 4 4 1 6 "1-5 miles" "weiblich" 5 2 0 0 0 0 0 0 0 1 0 0
+"Lo-cost" 2880 NA "no" 2 NA 1 5 1 1 5 5 1 5 4 5 5 5 1 5 5 5 1 1 1 7 "<1 mile" NA NA NA 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 3600 80 "no" 2 1 1 NA 3 1 1 1 4 4 NA 3 4 3 1 5 4 4 3 3 1 3 "<1 mile" "weiblich" 5 2 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 720 60 "no" 2 1 NA 3 1 1 1 2 1 5 3 3 4 2 1 2 NA 4 3 2 1 3 "<1 mile" "männlich" 1 1 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 960 80 "no" 2 2 1 5 2 2 1 NA 1 5 NA 5 5 5 4 5 5 5 5 NA NA NA "<1 mile" "weiblich" 5 2 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 720 80 NA NA NA NA NA NA NA NA NA 1 NA NA NA 1 NA NA NA NA NA NA NA NA NA "<1 mile" NA 5 2 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 1200 125 "yes" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA 5 "1-5 miles" "männlich" 5 3 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 540 125 "yes" NA 1 2 3 1 3 1 2 5 5 2 3 3 2 2 5 5 3 3 4 1 3 "1-5 miles" "weiblich" NA 3 0 0 0 0 0 0 0 0 1 0
+"Food Giant" 3600 375 "yes" NA NA 1 3 1 1 4 1 5 5 5 5 3 3 1 5 5 5 5 3 3 5 ">10 miles" "männlich" 2 5 0 0 0 0 0 0 0 0 0 1
+"Spar" NA 60 "yes" NA NA NA NA NA NA NA NA 5 NA NA NA NA NA 1 NA 1 NA 1 NA NA NA "1-5 miles" "weiblich" 5 1 0 0 0 0 0 0 0 0 0 1
+"Corner shop" 2160 NA "no" NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA "1-5 miles" "weiblich" 5 NA 0 0 0 0 0 0 0 0 0 1
+NA NA 80 "yes" NA NA 1 2 1 3 1 1 3 5 1 1 1 1 1 5 1 2 1 1 1 3 "1-5 miles" "männlich" 2 2 NA NA NA NA NA NA NA NA NA NA
+NA 2160 80 "yes" NA NA 5 5 1 1 5 5 5 3 5 5 5 3 2 5 5 5 5 1 NA NA "<1 mile" "weiblich" 5 2 NA NA NA NA NA NA NA NA NA NA
+NA 720 80 "no" 2 NA NA NA NA NA NA NA NA 1 NA NA NA NA NA NA 1 NA NA 1 NA 7 "1-5 miles" "weiblich" 4 2 NA NA NA NA NA NA NA NA NA NA
+NA 1800 125 "yes" NA NA 1 2 2 NA 2 NA 3 2 2 4 5 4 2 3 5 4 5 4 2 NA NA "weiblich" 2 3 NA NA NA NA NA NA NA NA NA NA
+NA 1800 125 "yes" NA NA 1 2 2 NA 2 NA 3 2 2 4 5 4 2 3 5 4 5 4 2 NA NA "weiblich" 2 3 NA NA NA NA NA NA NA NA NA NA
+"Asda" 720 NA "no" 1 5 5 5 1 1 5 5 1 3 5 5 5 5 1 5 5 1 5 3 5 7 "1-5 miles" "weiblich" 5 NA 0 0 0 0 1 0 0 0 0 0
+"Asda" 720 NA "no" 1 5 5 5 1 1 5 5 1 3 5 5 5 5 1 5 5 1 5 3 5 7 "1-5 miles" "weiblich" 5 NA 0 0 0 0 1 0 0 0 0 0
+"Iceland" 2160 375 "no" 2 1 1 5 3 1 3 3 1 5 5 3 5 5 3 5 5 3 5 3 1 5 "1-5 miles" "weiblich" 4 5 0 0 0 0 0 1 0 0 0 0
+"Iceland" 2160 375 "no" 2 1 1 5 3 1 3 3 1 5 5 3 5 5 3 5 5 3 5 3 1 5 "1-5 miles" "weiblich" 4 5 0 0 0 0 0 1 0 0 0 0
+"Tesco" 1680 125 "no" 2 3 4 5 1 1 3 1 1 5 4 3 4 3 2 5 5 2 5 1 1 6 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "no" 2 3 4 5 1 1 3 1 1 5 4 3 4 3 2 5 5 2 5 1 1 6 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 80 "no" 2 1 1 1 1 1 1 5 1 5 5 5 5 5 5 5 5 1 5 5 1 NA "<1 mile" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1500 80 "yes" 1 2 3 3 5 1 4 1 1 1 2 2 2 2 1 2 1 1 1 2 4 6 "1-5 miles" "weiblich" 1 2 0 0 1 0 0 0 0 0 0 0
+"Tesco" 360 NA "no" 1 1 1 5 1 1 4 1 1 3 5 5 5 5 5 5 5 5 5 2 5 6 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 360 NA "no" 1 1 1 5 1 1 4 1 1 3 5 5 5 5 5 5 5 5 5 2 5 6 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Solo" 840 NA "no" 2 5 1 5 5 1 5 5 1 5 5 5 5 2 1 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 3 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 840 NA "no" 2 5 1 5 5 1 5 5 1 5 5 5 5 2 1 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 3 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 840 80 "no" 2 1 1 5 5 1 3 3 1 3 4 4 4 5 5 5 4 4 3 3 1 5 "1-5 miles" "weiblich" 2 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 840 80 "no" 2 1 1 5 5 1 3 3 1 3 4 4 4 5 5 5 4 4 3 3 1 5 "1-5 miles" "weiblich" 2 2 0 0 0 1 0 0 0 0 0 0
+NA 720 80 "no" 2 1 1 1 1 1 5 1 1 3 4 3 5 5 5 5 2 5 3 4 1 6 "1-5 miles" "männlich" 5 2 NA NA NA NA NA NA NA NA NA NA
+"Kwik Save" 1680 200 "yes" NA 3 2 2 1 1 5 2 1 5 4 3 3 2 2 1 4 3 3 3 1 7 "1-5 miles" "weiblich" 1 4 0 1 0 0 0 0 0 0 0 0
+"Tesco" 420 200 "no" 1 1 1 2 1 1 5 2 1 5 4 5 4 5 5 4 5 5 5 3 5 7 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Lo-cost" NA 80 "no" 2 5 5 5 1 1 1 1 1 5 5 5 4 3 5 5 5 1 5 5 5 4 "<1 mile" "weiblich" 5 2 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 480 80 "no" 1 1 1 5 1 1 1 3 1 5 5 5 5 4 4 4 5 3 4 4 3 5 "<1 mile" "männlich" 5 2 0 0 0 0 0 0 0 0 1 0
+"Iceland" 1680 125 "no" 2 2 1 4 1 1 4 4 1 4 5 5 5 5 5 5 5 5 5 4 1 6 "1-5 miles" "männlich" 5 3 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1680 125 "no" 2 2 1 4 1 1 4 4 1 4 5 5 5 5 5 5 5 5 5 4 1 6 "1-5 miles" "männlich" 5 3 0 0 0 0 0 1 0 0 0 0
+"Solo" 900 80 "no" 2 1 1 1 1 1 1 2 1 5 5 5 5 2 5 3 5 3 4 3 1 5 "5-10 miles" "weiblich" 4 2 0 0 0 1 0 0 0 0 0 0
+"gateway" 1200 60 "no" 2 1 1 5 1 1 5 1 1 5 5 5 5 5 5 5 5 5 5 5 5 1 "<1 mile" "weiblich" 5 1 0 0 0 0 0 0 1 0 0 0
+"gateway" 1200 60 "no" 2 1 1 5 1 1 5 1 1 5 5 5 5 5 5 5 5 5 5 5 5 1 "<1 mile" "weiblich" 5 1 0 0 0 0 0 0 1 0 0 0
+"Solo" 720 200 "no" 2 2 3 3 1 1 1 2 1 5 3 4 3 3 1 3 5 2 2 2 2 3 "<1 mile" "weiblich" 3 4 0 0 0 1 0 0 0 0 0 0
+"Lo-cost" 1440 80 "no" 2 1 1 1 1 1 1 1 1 4 2 1 3 3 1 3 5 3 4 1 1 4 "<1 mile" "männlich" 3 2 0 0 0 0 0 0 0 0 1 0
+"Co-op" 180 375 "no" 2 1 1 1 1 1 1 1 1 5 1 1 3 1 1 2 3 1 5 1 1 5 "1-5 miles" "männlich" 3 5 0 0 0 0 0 0 0 0 0 1
+"Tesco" 3000 125 "no" 1 2 1 1 5 1 4 5 1 5 5 4 5 5 4 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3000 125 "no" 1 2 1 1 5 1 4 5 1 5 5 4 5 5 4 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 240 60 "no" 2 3 1 4 1 1 1 3 1 5 4 4 3 3 1 3 5 3 3 2 1 4 "<1 mile" "weiblich" 5 1 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 125 "no" 2 4 1 5 3 1 4 3 1 5 3 4 3 3 2 4 5 3 4 5 1 5 "<1 mile" "weiblich" 2 3 0 1 0 0 0 0 0 0 0 0
+"Iceland" 5040 NA "no" 2 5 1 5 5 1 5 3 1 5 5 5 5 5 5 3 2 5 5 5 1 7 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 5040 NA "no" 2 5 1 5 5 1 5 3 1 5 5 5 5 5 5 3 2 5 5 5 1 7 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1680 200 "no" 2 2 1 2 1 1 1 1 1 4 3 2 4 4 4 4 3 3 3 3 2 5 "1-5 miles" "männlich" 3 4 0 0 0 0 0 1 0 0 0 0
+"Iceland" 1680 200 "no" 2 2 1 2 1 1 1 1 1 4 3 2 4 4 4 4 3 3 3 3 2 5 "1-5 miles" "männlich" 3 4 0 0 0 0 0 1 0 0 0 0
+"gateway" 1680 125 "yes" NA 3 1 4 1 1 1 1 1 5 3 3 3 3 2 3 4 3 2 2 1 4 "1-5 miles" "männlich" 2 3 0 0 0 0 0 0 1 0 0 0
+"Kwik Save" 3360 125 "no" 2 2 1 3 1 1 2 3 1 4 4 4 4 4 2 4 5 4 5 3 1 5 "1-5 miles" "weiblich" 3 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3360 80 "no" 2 1 1 4 1 1 1 5 1 5 5 3 5 5 5 5 5 5 5 3 1 4 "<1 mile" "männlich" 4 2 1 0 0 0 0 0 0 0 0 0
+"Lo-cost" 5040 NA "no" 2 5 1 5 1 1 1 5 1 5 5 5 5 5 1 5 5 5 5 4 1 NA NA "weiblich" 3 NA 0 0 0 0 0 0 0 0 1 0
+"Solo" 3600 125 "no" 2 1 1 2 1 1 3 3 1 5 4 5 4 4 4 5 4 5 5 3 1 7 "5-10 miles" "weiblich" 5 3 0 0 0 1 0 0 0 0 0 0
+"Solo" 3600 125 "no" 2 1 1 2 1 1 3 3 1 5 4 5 4 4 4 5 4 5 5 3 1 7 "5-10 miles" "weiblich" 5 3 0 0 0 1 0 0 0 0 0 0
+"gateway" 240 60 "no" 2 3 1 1 1 1 1 1 1 4 1 3 2 1 1 3 4 2 1 2 1 4 "<1 mile" "weiblich" 1 1 0 0 0 0 0 0 1 0 0 0
+"Tesco" 1440 200 "no" 2 5 5 4 5 1 4 5 1 5 5 5 5 5 4 5 5 5 5 4 5 5 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "no" 1 1 1 1 1 1 4 4 1 5 5 5 4 4 1 2 5 5 5 4 5 7 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"gateway" 900 125 "no" 2 1 1 1 1 1 1 1 1 3 3 4 4 4 3 5 5 5 4 2 1 4 "<1 mile" "weiblich" 3 3 0 0 0 0 0 0 1 0 0 0
+"Tesco" 1440 80 "no" 1 1 1 3 1 1 1 3 1 4 3 4 4 4 4 4 4 4 3 3 4 5 "1-5 miles" "weiblich" 2 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 125 "no" 2 2 1 4 1 1 2 5 1 5 4 5 5 4 2 5 5 5 4 4 2 5 "1-5 miles" "weiblich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 200 "no" 2 5 5 5 1 1 5 5 1 5 5 3 5 5 1 5 3 5 5 5 1 4 "1-5 miles" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Iceland" 720 60 "no" 2 1 1 5 1 1 1 1 1 5 5 5 5 5 1 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 4 1 0 0 0 0 0 1 0 0 0 0
+"Tesco" 1680 NA "no" 1 1 5 5 5 1 5 5 1 5 5 5 5 5 4 5 3 5 5 5 5 6 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Solo" 1440 80 "no" 2 3 2 2 1 1 1 4 1 5 4 5 5 4 2 5 5 5 3 3 1 5 "<1 mile" "männlich" 1 2 0 0 0 1 0 0 0 0 0 0
+"Kwik Save" 3360 125 "no" 2 3 2 4 1 1 1 2 1 5 1 5 3 3 1 4 5 2 3 4 1 4 "<1 mile" "weiblich" 2 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3360 80 "no" 1 5 1 5 5 1 1 5 1 3 5 5 5 5 4 5 5 5 4 5 5 7 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 240 60 "no" 2 1 1 1 2 1 3 2 2 5 4 5 5 4 2 5 5 5 4 2 1 1 "1-5 miles" "weiblich" 2 1 0 0 1 0 0 0 0 0 0 0
+"Solo" 3360 80 "no" 2 3 3 4 1 1 2 3 1 5 3 2 4 5 5 4 5 4 4 3 3 NA "1-5 miles" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 3360 80 "no" 2 3 3 4 1 1 2 3 1 5 3 2 4 5 5 4 5 4 4 3 3 NA "1-5 miles" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Kwik Save" 1440 200 "no" 2 2 2 1 1 1 2 1 1 5 2 5 5 5 2 2 5 5 5 1 1 7 "<1 mile" "weiblich" 5 4 0 1 0 0 0 0 0 0 0 0
+"gateway" 480 60 "no" NA 1 3 4 1 1 1 1 1 4 4 4 3 2 1 4 5 3 3 3 3 4 "1-5 miles" "weiblich" 1 1 0 0 0 0 0 0 1 0 0 0
+"Tesco" 900 NA "yes" 2 5 1 1 1 3 5 5 1 1 4 5 5 1 5 5 5 5 5 1 1 7 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 900 NA "yes" 2 5 1 1 1 3 5 5 1 1 4 5 5 1 5 5 5 5 5 1 1 7 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 125 "no" 2 2 3 5 1 1 1 1 1 5 5 3 5 5 5 5 4 5 4 3 1 4 "1-5 miles" "männlich" 4 3 1 0 0 0 0 0 0 0 0 0
+"Iceland" 2100 200 "yes" 2 3 4 1 1 1 1 5 1 5 5 5 5 5 4 5 5 5 5 2 1 7 "1-5 miles" "weiblich" 3 4 0 0 0 0 0 1 0 0 0 0
+"Iceland" 2100 200 "yes" 2 3 4 1 1 1 1 5 1 5 5 5 5 5 4 5 5 5 5 2 1 7 "1-5 miles" "weiblich" 3 4 0 0 0 0 0 1 0 0 0 0
+"Solo" 720 60 "no" 2 1 1 1 1 1 1 5 1 5 4 4 4 4 3 3 4 4 4 4 NA NA "<1 mile" NA 5 1 0 0 0 1 0 0 0 0 0 0
+"Lo-cost" 960 125 "no" 2 1 1 3 1 1 1 1 1 5 5 5 5 5 2 5 5 5 5 5 1 5 "<1 mile" "weiblich" 4 3 0 0 0 0 0 0 0 0 1 0
+"Lo-cost" 480 80 "no" 2 2 1 3 1 1 1 3 1 5 4 4 5 4 3 3 5 5 4 3 1 4 "<1 mile" "männlich" 3 2 0 0 0 0 0 0 0 0 1 0
+"Tesco" 3600 375 "no" 2 5 1 5 1 1 1 4 1 3 4 5 5 5 2 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "no" 2 5 1 5 1 1 1 4 1 3 4 5 5 5 2 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Solo" NA 80 "no" 2 3 1 1 1 1 1 1 1 5 1 5 1 1 1 1 5 2 1 2 1 4 "<1 mile" "weiblich" 4 2 0 0 0 1 0 0 0 0 0 0
+"Tesco" 480 60 "no" 2 1 1 1 1 1 1 1 1 5 1 3 4 3 1 3 5 4 4 1 1 5 "<1 mile" "weiblich" 1 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 NA "no" 2 5 5 5 5 1 4 1 1 5 5 5 5 4 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Local shops" 480 NA "no" 2 3 1 1 1 1 1 1 1 5 4 2 5 3 1 3 5 5 5 3 4 4 NA "weiblich" 4 NA 0 0 0 0 0 0 0 0 0 1
+"gateway" 960 NA "no" 1 1 1 5 1 1 2 2 1 5 3 4 3 3 5 3 5 5 4 1 1 5 "<1 mile" "weiblich" 5 NA 0 0 0 0 0 0 1 0 0 0
+"gateway" 960 NA "no" 1 1 1 5 1 1 2 2 1 5 3 4 3 3 5 3 5 5 4 1 1 5 "<1 mile" "weiblich" 5 NA 0 0 0 0 0 0 1 0 0 0
+"Tesco" 3600 375 "no" 2 4 1 5 1 1 1 5 1 5 5 5 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 360 60 "yes" NA 1 1 1 1 1 1 1 1 5 2 3 2 2 2 3 5 3 4 2 1 6 "<1 mile" "weiblich" 2 1 1 0 0 0 0 0 0 0 0 0
+"Solo" 720 80 "no" 2 1 1 1 1 1 1 5 1 5 5 5 5 5 5 5 3 5 5 5 5 6 "<1 mile" NA 5 2 0 0 0 1 0 0 0 0 0 0
+"Tesco" 360 NA "no" 1 1 1 4 1 1 1 1 1 5 5 5 5 5 4 5 5 5 5 5 5 7 "1-5 miles" "männlich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"gateway" 720 200 "no" 2 1 3 5 1 1 1 5 1 5 5 5 5 5 1 5 5 5 5 4 2 1 "<1 mile" "weiblich" 5 4 0 0 0 0 0 0 1 0 0 0
+"Tesco" 720 200 "no" 2 1 1 4 1 1 1 2 1 5 1 4 5 4 NA 5 5 4 4 5 1 5 "<1 mile" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 840 60 "yes" 2 2 3 3 1 1 1 1 1 5 1 2 1 1 1 1 1 2 2 1 1 3 "1-5 miles" "männlich" 1 1 0 0 1 0 0 0 0 0 0 0
+"Tesco" 720 60 "no" 2 4 4 5 1 1 1 5 1 4 2 4 3 3 2 3 5 4 1 1 2 6 "1-5 miles" "männlich" 1 1 1 0 0 0 0 0 0 0 0 0
+NA 900 375 "no" 2 4 5 5 1 1 1 5 1 3 5 1 5 5 5 5 4 4 5 5 4 6 "1-5 miles" "weiblich" 2 5 NA NA NA NA NA NA NA NA NA NA
+"Tesco" 1680 125 "no" 1 1 5 4 1 1 2 4 1 5 5 5 5 5 5 5 5 5 4 4 5 7 "5-10 miles" "weiblich" 4 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 375 "no" 2 2 1 2 1 1 1 1 1 5 3 5 4 4 2 4 5 5 4 3 1 5 "<1 mile" "männlich" 1 5 1 0 0 0 0 0 0 0 0 0
+"Solo" 720 125 "no" 2 1 1 5 1 1 1 3 1 5 4 4 4 4 2 5 5 5 4 4 1 6 "<1 mile" "weiblich" 3 3 0 0 0 1 0 0 0 0 0 0
+NA 2160 375 "yes" NA 1 1 4 1 1 1 1 2 4 2 4 4 4 3 4 4 4 4 1 1 5 "1-5 miles" "weiblich" 5 5 NA NA NA NA NA NA NA NA NA NA
+"Lo-cost" 720 80 "no" 2 1 2 2 1 1 1 4 1 5 2 3 3 3 1 2 5 4 3 2 1 4 "<1 mile" "männlich" 5 2 0 0 0 0 0 0 0 0 1 0
+"Somerfields" 2700 NA "yes" NA 1 1 2 1 1 2 2 2 4 1 4 1 1 5 5 1 3 1 1 1 2 "1-5 miles" "weiblich" 3 NA 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 1680 125 "no" 2 3 3 5 1 1 1 1 1 5 5 5 4 5 5 5 5 5 5 4 1 6 "1-5 miles" "weiblich" 2 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 125 "no" 2 3 3 5 1 1 1 1 1 5 5 5 4 5 5 5 5 5 5 4 1 6 "1-5 miles" "weiblich" 2 3 0 1 0 0 0 0 0 0 0 0
+"Solo" 1680 200 "no" 2 3 1 3 3 1 1 4 1 4 3 4 3 4 3 5 5 5 4 4 4 4 "<1 mile" "weiblich" 2 4 0 0 0 1 0 0 0 0 0 0
+"Solo" 1680 200 "no" 2 3 1 3 3 1 1 4 1 4 3 4 3 4 3 5 5 5 4 4 4 4 "<1 mile" "weiblich" 2 4 0 0 0 1 0 0 0 0 0 0
+"Kwik Save" 3360 125 "no" 2 3 3 4 4 1 4 3 2 5 5 5 5 5 5 5 5 5 5 5 3 NA "<1 mile" "weiblich" 3 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "no" 2 2 2 2 1 1 1 3 1 2 2 3 2 3 1 4 4 4 4 2 1 4 "1-5 miles" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "no" 2 3 4 4 2 1 2 3 1 4 3 3 4 3 4 5 4 5 3 3 4 6 "1-5 miles" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+NA NA 625 "no" 2 2 1 2 1 1 1 1 2 5 2 2 3 3 1 3 4 3 4 3 2 NA NA "männlich" 2 6 NA NA NA NA NA NA NA NA NA NA
+"Tesco" 720 80 "no" 1 5 1 5 1 1 2 5 1 3 3 5 3 3 5 5 5 5 2 5 5 7 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Safeway" 5040 NA "no" 2 3 4 5 5 1 2 5 1 5 2 3 2 1 4 2 3 4 3 1 1 5 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 0 0 1 0 0
+"Lo-cost" 1680 60 "yes" 2 1 1 1 1 1 1 1 1 1 1 1 4 4 1 4 5 5 3 3 1 7 "<1 mile" "weiblich" 5 1 0 0 0 0 0 0 0 0 1 0
+"Solo" 1440 125 "no" 2 1 1 4 1 1 1 4 1 5 4 4 4 4 3 4 5 5 5 5 3 5 "<1 mile" "weiblich" 5 3 0 0 0 1 0 0 0 0 0 0
+"Lo-cost" 3600 200 "no" 2 2 2 1 1 1 1 2 1 5 2 3 2 2 2 2 4 4 3 2 1 5 "<1 mile" "männlich" 2 4 0 0 0 0 0 0 0 0 1 0
+"Tesco" 240 125 "no" 2 2 3 4 1 1 1 3 1 4 4 5 3 3 3 4 5 5 5 2 1 5 "<1 mile" "männlich" 1 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 750 "yes" NA 1 2 3 1 2 2 2 3 3 3 3 3 2 3 3 3 1 2 2 1 4 "1-5 miles" "männlich" 3 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 200 "no" 2 5 5 5 1 1 1 1 1 5 5 5 5 5 1 5 5 5 5 5 5 5 ">10 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Solo" 840 80 "no" 2 1 1 3 1 1 1 1 1 1 3 4 2 4 1 3 5 5 5 3 1 4 "1-5 miles" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Solo" 840 80 "no" 2 1 1 3 1 1 1 1 1 1 3 4 2 4 1 3 5 5 5 3 1 4 "1-5 miles" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Kwik Save" 1680 200 "no" 2 2 2 4 2 1 1 1 2 5 3 3 3 3 3 5 5 3 2 5 1 4 "<1 mile" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Iceland" 1680 NA "no" 2 1 5 5 5 1 1 5 1 5 5 5 5 5 5 5 5 5 5 5 1 7 "<1 mile" "weiblich" 2 NA 0 0 0 0 0 1 0 0 0 0
+"Solo" 3600 NA "yes" NA 1 1 3 1 1 1 1 5 5 5 1 5 5 1 5 5 1 3 5 1 4 "1-5 miles" "weiblich" 2 NA 0 0 0 1 0 0 0 0 0 0
+"Solo" 3600 NA "yes" NA 1 1 3 1 1 1 1 5 5 5 1 5 5 1 5 5 1 3 5 1 4 "1-5 miles" "weiblich" 2 NA 0 0 0 1 0 0 0 0 0 0
+"Safeway" 720 NA "no" 2 1 1 1 1 1 1 1 1 4 1 3 2 2 2 4 4 4 4 3 1 5 "1-5 miles" "weiblich" 1 NA 0 0 0 0 0 0 0 1 0 0
+NA 840 60 "no" 2 1 5 2 1 1 1 1 1 5 4 4 4 5 4 3 5 5 5 4 1 5 "1-5 miles" "weiblich" 1 1 NA NA NA NA NA NA NA NA NA NA
+"gateway" 2160 125 "no" 2 5 1 4 1 1 1 5 3 5 5 5 5 5 3 5 4 5 4 3 1 5 "<1 mile" "weiblich" 3 3 0 0 0 0 0 0 1 0 0 0
+"Solo" 1680 80 "no" 2 1 1 2 2 1 1 1 1 1 1 1 2 2 1 1 5 5 3 1 1 7 "1-5 miles" "weiblich" 3 2 0 0 0 1 0 0 0 0 0 0
+"Tesco" 3600 125 "yes" 2 1 1 2 2 1 1 1 2 3 5 5 5 5 5 1 5 5 5 4 1 5 "<1 mile" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 200 "no" 2 1 1 1 1 1 1 2 1 3 3 2 1 2 1 5 4 4 4 5 1 5 "<1 mile" "männlich" 1 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "yes" NA 2 2 5 1 1 2 1 3 3 1 1 2 3 1 4 5 3 2 1 1 3 "<1 mile" "männlich" 5 6 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 900 NA "no" 2 5 5 1 5 1 1 2 1 5 5 5 3 5 5 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 60 "no" 2 1 1 1 1 1 1 1 1 1 1 4 4 5 5 5 5 5 5 5 5 7 "<1 mile" "weiblich" NA 1 0 0 1 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" NA 1 1 3 1 2 3 4 4 5 2 5 5 4 3 3 5 1 3 4 1 7 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 80 "no" 2 1 1 1 1 1 1 1 1 1 1 1 5 5 4 1 5 5 5 5 1 NA "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 80 "no" 2 1 1 1 1 1 1 1 1 1 1 1 5 5 4 1 5 5 5 5 1 NA "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Iceland" 720 NA "no" 2 3 4 5 1 3 5 3 1 5 3 3 3 3 5 5 5 5 5 2 1 4 "1-5 miles" "weiblich" 2 NA 0 0 0 0 0 1 0 0 0 0
+"Iceland" 720 NA "no" 2 3 4 5 1 3 5 3 1 5 3 3 3 3 5 5 5 5 5 2 1 4 "1-5 miles" "weiblich" 2 NA 0 0 0 0 0 1 0 0 0 0
+"gateway" 1680 375 "no" 2 4 5 4 2 1 3 5 2 5 5 4 3 4 5 5 5 5 5 4 5 4 "<1 mile" "männlich" 4 5 0 0 0 0 0 0 1 0 0 0
+"Kwik Save" 3600 625 "yes" NA 2 3 5 1 1 1 2 5 5 5 5 5 5 1 5 5 1 5 5 5 7 "1-5 miles" "weiblich" 4 6 0 1 0 0 0 0 0 0 0 0
+"Solo" 3360 80 "no" 2 1 5 5 5 1 1 5 1 5 3 5 5 3 5 5 5 5 5 5 5 7 "1-5 miles" "weiblich" 2 2 0 0 0 1 0 0 0 0 0 0
+"Tesco" 3600 NA "no" 1 5 5 3 5 5 5 2 1 3 4 4 3 3 3 3 2 3 3 2 1 3 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "no" 1 5 5 3 5 5 5 2 1 3 4 4 3 3 3 3 2 3 3 2 1 3 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 3000 200 "yes" NA 1 1 3 1 1 1 5 1 2 1 1 4 1 1 3 5 5 5 5 1 7 "1-5 miles" "weiblich" 5 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 840 80 "yes" NA 1 1 1 1 1 1 2 3 4 3 2 4 2 3 5 3 4 3 3 1 4 ">10 miles" "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 840 80 "yes" NA 1 1 1 1 1 1 2 3 4 3 2 4 2 3 5 3 4 3 3 1 4 ">10 miles" "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Iceland" 3360 80 "no" 2 5 2 4 2 1 2 3 3 5 5 5 5 5 3 5 5 5 5 5 5 1 "<1 mile" "weiblich" 2 2 0 0 0 0 0 1 0 0 0 0
+"Safeway" 3600 375 "yes" NA 2 1 1 1 1 2 2 4 5 4 2 4 4 3 5 4 5 5 1 1 5 "1-5 miles" "weiblich" 3 5 0 0 0 0 0 0 0 1 0 0
+NA 1680 80 "yes" NA 3 1 2 2 2 2 4 4 4 3 4 3 3 3 4 5 2 3 2 1 4 "<1 mile" "männlich" 5 2 NA NA NA NA NA NA NA NA NA NA
+"Tesco" 3600 200 "no" 1 2 5 2 1 2 4 5 2 5 5 4 5 4 5 5 4 5 5 5 5 6 "5-10 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "no" 1 2 5 2 1 2 4 5 2 5 5 4 5 4 5 5 4 5 5 5 5 6 "5-10 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Solo" 1200 125 "no" 2 1 3 3 1 1 1 4 1 5 3 3 3 2 1 5 5 5 5 5 4 3 "<1 mile" "weiblich" 1 3 0 0 0 1 0 0 0 0 0 0
+"gateway" NA 625 "no" 2 1 1 4 1 1 1 1 3 5 3 2 4 3 2 3 4 4 4 3 1 5 "<1 mile" "männlich" NA 6 0 0 0 0 0 0 1 0 0 0
+"Tesco" 480 NA "yes" NA 1 1 4 1 1 1 3 4 5 2 3 4 4 3 5 3 3 5 3 1 4 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Safeway" 7200 625 "yes" NA 3 1 3 2 2 4 3 4 5 4 3 4 4 3 4 4 4 3 3 1 5 "1-5 miles" "männlich" 3 6 0 0 0 0 0 0 0 1 0 0
+"Kwik Save" 3360 80 "no" 2 3 2 3 1 3 1 3 2 4 3 3 4 4 2 2 4 3 4 3 1 5 "<1 mile" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 125 "yes" NA 1 1 1 1 3 2 2 3 4 2 2 3 3 2 2 3 2 2 2 2 4 "1-5 miles" "männlich" 3 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 120 80 "yes" NA 5 1 5 1 1 5 5 5 4 3 5 5 4 4 5 5 4 3 4 2 6 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Safeway" 1680 NA "yes" NA 1 1 1 1 1 1 2 3 5 3 1 4 4 1 5 3 5 5 3 1 7 "1-5 miles" NA NA NA 0 0 0 0 0 0 0 1 0 0
+"Tesco" 720 80 "yes" NA 1 1 3 1 1 1 5 5 5 5 4 5 5 3 5 5 4 3 3 3 3 "1-5 miles" "weiblich" 1 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "no" 2 3 3 3 3 3 2 5 1 5 3 4 4 5 2 5 5 5 5 5 1 6 "<1 mile" "weiblich" 3 6 1 0 0 0 0 0 0 0 0 0
+"Asda" 6000 625 "yes" NA 5 1 1 1 1 1 3 4 5 5 5 3 3 3 5 5 5 5 1 1 7 "<1 mile" "weiblich" 4 6 0 0 0 0 1 0 0 0 0 0
+"Safeway" 1800 375 "yes" NA 1 1 1 1 1 1 1 4 4 3 4 1 1 2 4 4 3 2 1 1 5 "1-5 miles" "männlich" 1 5 0 0 0 0 0 0 0 1 0 0
+"gateway" 3360 NA "yes" 2 2 1 5 1 1 1 2 3 5 5 5 4 3 1 5 5 5 5 5 1 4 "<1 mile" "weiblich" 5 NA 0 0 0 0 0 0 1 0 0 0
+"Solo" 3360 125 "no" 2 4 5 3 3 2 2 2 2 5 4 5 2 2 2 4 5 4 2 3 3 5 "1-5 miles" "männlich" 2 3 0 0 0 1 0 0 0 0 0 0
+"Asda" 1800 375 "yes" NA 2 2 2 2 2 2 2 3 3 3 4 5 5 3 5 5 5 5 3 2 4 "1-5 miles" "weiblich" 2 5 0 0 0 0 1 0 0 0 0 0
+"Pioneer" 540 200 "yes" NA 1 2 3 1 4 1 1 1 4 1 5 4 4 4 1 3 3 3 3 1 6 "1-5 miles" "weiblich" 1 4 0 0 0 0 0 0 0 0 0 1
+"Tesco" 3600 NA "yes" NA 1 1 1 1 3 3 2 3 3 4 3 4 4 1 4 4 5 5 2 1 7 "1-5 miles" "männlich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "yes" 2 5 1 5 1 1 5 4 5 2 5 5 5 2 1 4 5 5 5 3 1 6 "1-5 miles" "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "yes" 2 5 1 5 1 1 5 4 5 2 5 5 5 2 1 4 5 5 5 3 1 6 "1-5 miles" "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 2880 375 "yes" NA 1 1 1 1 1 1 1 3 4 4 3 5 5 5 3 5 5 5 5 1 3 "<1 mile" "weiblich" 2 5 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 200 "yes" NA 1 2 5 1 1 1 5 5 3 5 5 5 4 5 5 5 4 3 3 2 5 "1-5 miles" "weiblich" 4 4 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3360 625 "yes" NA 2 2 3 1 3 2 3 3 5 4 4 3 4 3 4 4 4 4 2 1 5 "1-5 miles" "männlich" 3 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 6000 375 "yes" NA 2 1 4 1 1 1 4 4 4 4 4 4 4 1 5 5 5 4 4 1 7 "1-5 miles" "weiblich" 4 5 1 0 0 0 0 0 0 0 0 0
+"Co-op" 2160 375 "yes" NA 1 1 1 1 1 1 1 3 5 3 1 1 1 1 1 3 5 1 1 1 2 "<1 mile" "männlich" 2 5 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 1680 200 "yes" NA 3 1 2 2 1 1 1 3 2 4 2 4 3 2 2 4 5 5 5 1 3 "1-5 miles" "weiblich" 2 4 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1440 NA "yes" 2 1 1 3 5 1 3 2 5 3 2 5 2 3 5 4 5 3 4 3 1 5 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1440 NA "yes" 2 1 1 3 5 1 3 2 5 3 2 5 2 3 5 4 5 3 4 3 1 5 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Asda" 6720 625 "yes" NA 2 3 3 1 3 4 4 4 4 4 4 4 5 3 5 5 4 4 3 NA 5 "1-5 miles" "weiblich" 4 6 0 0 0 0 1 0 0 0 0 0
+"Safeway" 3600 NA "yes" NA 1 4 1 2 1 1 1 4 5 4 4 5 5 4 5 5 5 4 3 1 5 "1-5 miles" "weiblich" 2 NA 0 0 0 0 0 0 0 1 0 0
+"Kwik Save" 3360 80 "no" 2 5 4 5 4 3 4 4 3 5 5 4 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "yes" NA 1 1 3 1 2 1 2 4 4 5 2 5 4 1 5 4 5 5 3 1 5 "<1 mile" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Somerfields" 1800 80 "no" 2 1 1 3 5 1 5 1 5 4 4 4 4 4 3 5 5 5 5 5 5 NA "1-5 miles" "weiblich" 1 2 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 1680 125 "yes" 2 5 1 1 5 3 5 5 5 4 5 5 3 2 5 5 5 5 3 1 1 5 "1-5 miles" "weiblich" 4 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 125 "yes" 2 5 1 1 5 3 5 5 5 4 5 5 3 2 5 5 5 5 3 1 1 5 "1-5 miles" "weiblich" 4 3 0 1 0 0 0 0 0 0 0 0
+"Somerfields" NA 375 "yes" NA 5 1 5 5 1 1 1 5 5 5 1 5 5 5 5 1 5 5 5 1 6 "<1 mile" "männlich" 1 5 0 0 0 0 0 0 0 0 0 1
+"Safeway" 3000 625 "yes" NA 3 2 4 1 1 4 2 5 5 4 3 5 5 3 5 4 5 5 5 2 5 "1-5 miles" "männlich" 2 6 0 0 0 0 0 0 0 1 0 0
+"Kwik Save" 900 60 "no" 2 2 2 5 1 1 1 2 4 5 3 2 1 2 2 4 3 3 3 4 2 4 "<1 mile" "männlich" 3 1 0 1 0 0 0 0 0 0 0 0
+"gateway" 3600 200 "no" 2 2 3 2 5 2 2 5 3 5 2 5 5 5 3 2 5 5 3 5 1 6 "<1 mile" "weiblich" 2 4 0 0 0 0 0 0 1 0 0 0
+"Aldi" 840 125 "yes" NA 1 1 5 1 1 1 1 5 2 1 1 4 3 3 5 5 5 1 1 1 4 ">10 miles" "weiblich" 3 3 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 3600 375 "no" 2 5 4 5 4 3 4 4 3 5 5 4 5 5 4 3 3 5 5 5 5 5 "1-5 miles" "weiblich" 2 5 0 1 0 0 0 0 0 0 0 0
+"Sainsburys" 1800 200 "yes" NA 1 3 1 1 2 1 1 3 3 1 1 2 2 2 3 1 3 3 3 1 5 "1-5 miles" "männlich" 5 4 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 240 NA "yes" 2 1 3 5 3 1 1 1 5 5 3 3 4 3 3 5 5 3 5 3 NA 7 "<1 mile" "männlich" 5 NA 0 1 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 NA "yes" NA 1 1 1 1 1 3 3 4 3 3 2 3 3 4 3 3 5 4 4 1 5 "1-5 miles" "weiblich" 5 NA 0 0 1 0 0 0 0 0 0 0
+"gateway" 720 NA "no" 2 5 5 5 1 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 4 "<1 mile" "männlich" 2 NA 0 0 0 0 0 0 1 0 0 0
+"Tesco" 840 200 "yes" NA 1 2 2 2 2 2 4 4 5 5 2 5 4 2 4 5 5 4 5 4 7 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"gateway" 3360 375 "yes" 2 1 1 3 1 1 2 5 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "<1 mile" "männlich" 5 5 0 0 0 0 0 0 1 0 0 0
+"Makro" 3600 NA "yes" NA 2 1 3 1 1 1 3 5 5 5 3 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 3 NA 0 0 0 0 0 0 0 0 0 1
+"Tesco" 720 375 "yes" NA 1 1 2 1 1 1 3 5 5 5 3 5 5 5 5 5 5 5 5 3 4 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" NA 1 1 2 1 1 1 2 5 5 4 5 4 4 3 5 5 5 3 3 1 5 "<1 mile" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 240 125 "yes" 2 1 1 4 1 5 5 5 5 5 5 5 5 5 5 5 5 4 2 1 1 7 "1-5 miles" "männlich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Safeway" 1680 375 "yes" NA 3 1 2 2 1 1 4 4 5 3 2 1 1 2 3 4 4 4 3 1 5 "1-5 miles" "männlich" 2 5 0 0 0 0 0 0 0 1 0 0
+"Asda" 5400 375 "yes" NA 4 2 2 1 3 1 1 3 4 2 4 5 4 3 3 3 4 4 4 1 7 "1-5 miles" "männlich" 5 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 NA "no" 2 1 1 5 1 1 4 1 5 4 4 5 4 4 4 5 5 5 5 5 5 7 "1-5 miles" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 375 "no" 2 3 5 5 3 3 1 4 3 5 5 5 5 4 4 5 5 5 4 4 1 5 "<1 mile" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 3 3 4 4 4 4 4 4 4 5 5 5 5 4 4 4 4 4 4 4 3 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 125 "yes" NA 1 1 1 1 1 1 1 5 5 5 5 5 5 2 3 5 5 5 5 1 7 "1-5 miles" "männlich" 4 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3600 80 "yes" NA 2 1 2 3 3 2 1 3 5 3 4 1 3 1 2 3 4 4 3 NA 6 "1-5 miles" "weiblich" 1 2 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 720 NA "yes" NA 4 3 4 1 1 1 3 5 5 2 4 4 4 1 4 4 4 4 2 1 6 "5-10 miles" NA NA NA 0 0 1 0 0 0 0 0 0 0
+"Lo-cost" 720 375 "yes" NA 1 1 3 5 2 1 3 5 5 4 3 5 5 4 5 5 5 5 3 1 3 "<1 mile" "weiblich" 3 5 0 0 0 0 0 0 0 0 1 0
+"Kwik Save" 1680 125 "yes" NA 2 2 4 4 2 2 2 4 4 3 3 4 4 3 4 4 5 5 3 3 5 "1-5 miles" "weiblich" 2 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1800 375 "yes" NA 4 2 3 4 1 4 3 5 3 2 2 5 5 3 4 5 5 5 5 2 5 "5-10 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Aldi" 900 375 "yes" NA 1 1 5 1 1 1 1 5 5 5 5 5 3 3 5 5 5 5 5 1 5 "5-10 miles" "weiblich" 4 5 0 0 0 0 0 0 0 0 0 1
+"Tesco" 1680 375 "yes" NA 4 1 4 1 1 1 3 5 3 2 3 5 3 1 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 420 NA "yes" 2 3 5 5 5 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 5 NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1500 200 "yes" NA 2 2 5 1 2 2 3 5 5 3 3 3 4 3 5 3 4 4 2 2 4 "<1 mile" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Solo" 840 80 "no" 2 1 3 5 4 2 3 3 4 4 4 3 5 5 4 3 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 2 0 0 0 1 0 0 0 0 0 0
+"Sainsburys" 5040 375 "yes" NA 1 1 1 1 3 1 1 4 NA 2 2 3 4 3 4 3 3 4 3 1 6 "1-5 miles" "weiblich" 5 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 1 1 1 3 5 5 5 3 5 5 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 1 1 1 3 5 5 5 3 5 5 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "yes" NA 2 1 2 2 2 2 4 5 5 5 4 5 4 5 5 3 5 3 5 3 2 "<1 mile" "weiblich" 2 2 0 1 0 0 0 0 0 0 0 0
+NA 3600 NA "yes" NA 2 1 5 1 3 2 2 4 5 3 3 4 4 3 4 3 4 4 4 2 6 "1-5 miles" "weiblich" 4 NA NA NA NA NA NA NA NA NA NA NA
+"Food Giant" 3600 375 "yes" NA 2 2 3 1 3 3 3 4 4 4 3 3 3 2 4 4 4 4 4 2 4 ">10 miles" "weiblich" 3 5 0 0 0 0 0 0 0 0 0 1
+"Lo-cost" 3600 200 "yes" NA 1 2 2 2 4 1 5 4 3 4 4 4 4 5 3 5 4 2 1 1 5 "1-5 miles" "weiblich" 3 4 0 0 0 0 0 0 0 0 1 0
+"Kwik Save" 1680 NA "no" 2 5 1 5 3 4 5 5 5 5 5 5 5 3 5 5 5 5 5 3 1 4 ">10 miles" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 NA "no" 2 5 1 5 3 4 5 5 5 5 5 5 5 3 5 5 5 5 5 3 1 4 ">10 miles" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+NA 2700 200 "yes" NA 3 3 2 1 1 1 1 4 3 3 3 3 4 1 4 5 5 4 4 1 6 "1-5 miles" "weiblich" 1 4 NA NA NA NA NA NA NA NA NA NA
+"Tesco" 3360 125 "yes" NA 5 5 5 1 2 1 5 5 5 5 5 4 4 1 4 5 2 5 5 1 7 "1-5 miles" "weiblich" 3 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 6000 375 "yes" NA 2 1 5 1 3 1 5 4 5 4 5 4 4 4 5 5 5 5 2 4 6 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 6000 375 "yes" NA 2 1 5 1 3 1 5 4 5 4 5 4 4 4 5 5 5 5 2 4 6 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 750 "yes" NA 1 1 1 1 2 1 1 3 4 2 1 1 4 3 3 3 5 5 3 1 6 "1-5 miles" "weiblich" 2 7 0 0 1 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 1 1 3 1 1 1 4 5 4 4 4 3 2 2 3 5 5 2 3 1 5 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 1 1 3 1 1 1 4 5 4 4 4 3 2 2 3 5 5 2 3 1 5 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3360 NA "yes" NA 1 1 2 1 4 2 2 4 2 2 4 4 4 1 3 4 3 5 2 1 5 "1-5 miles" "weiblich" 3 NA 0 0 1 0 0 0 0 0 0 0
+"Somerfields" 2880 80 "no" 2 1 1 2 1 3 1 4 4 5 4 4 4 4 4 4 4 4 4 4 1 5 "<1 mile" "weiblich" 2 2 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 5040 NA "yes" NA 3 1 3 1 2 1 1 5 5 4 1 5 5 1 3 1 5 3 3 1 4 "<1 mile" "weiblich" 1 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3360 NA "yes" NA 2 2 5 1 2 2 5 5 5 5 5 5 4 2 5 5 5 4 3 2 7 "1-5 miles" "weiblich" 4 NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 5040 375 "yes" NA 3 1 5 1 2 2 4 5 5 4 4 5 5 4 5 5 5 5 4 1 7 "1-5 miles" "männlich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 1 3 2 1 2 1 3 4 4 4 3 4 5 4 3 3 5 5 3 1 6 "1-5 miles" "weiblich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" 2 1 1 1 5 5 1 3 3 4 5 5 5 5 2 5 5 5 5 3 1 5 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" 2 1 1 1 5 5 1 3 3 4 5 5 5 5 2 5 5 5 5 3 1 5 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 420 NA "yes" 2 1 3 2 1 1 1 5 5 5 5 1 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 3 NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 2700 200 "yes" NA 1 2 2 3 3 2 2 4 4 2 2 2 3 3 3 3 3 3 3 2 4 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Lo-cost" 480 125 "yes" NA 1 1 4 1 2 1 5 5 5 5 5 5 5 5 5 5 5 3 5 5 1 "<1 mile" "männlich" 5 3 0 0 0 0 0 0 0 0 1 0
+"Kwik Save" 1680 80 "yes" NA 1 1 3 3 1 1 4 5 4 4 4 4 3 1 4 4 5 5 4 1 5 "1-5 miles" "weiblich" 3 2 0 1 0 0 0 0 0 0 0 0
+"Safeway" 1500 375 "yes" NA 1 1 3 3 3 1 1 3 5 3 1 3 3 5 5 5 5 5 4 1 4 "1-5 miles" "männlich" 3 5 0 0 0 0 0 0 0 1 0 0
+"Asda" 3600 375 "yes" NA 2 4 2 1 2 3 5 5 5 5 3 5 5 2 4 5 5 4 4 1 5 "1-5 miles" "weiblich" 3 5 0 0 0 0 1 0 0 0 0 0
+"Lo-cost" 480 200 "yes" NA 2 2 4 1 1 1 2 5 5 3 3 4 4 2 5 5 5 5 4 1 5 "<1 mile" "weiblich" 3 4 0 0 0 0 0 0 0 0 1 0
+"Tesco" 1440 375 "yes" NA 3 1 2 5 4 2 2 5 5 5 4 5 5 1 5 4 5 4 1 1 7 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 80 "no" 2 1 2 2 1 2 5 5 5 3 2 3 5 5 5 3 5 5 3 5 5 1 "<1 mile" "weiblich" 2 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" NA 750 "yes" NA 2 2 4 1 2 2 3 5 5 3 2 3 3 2 3 3 4 4 2 1 5 "1-5 miles" "männlich" 3 7 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1440 125 "yes" 2 2 2 3 1 3 1 3 4 3 2 3 3 2 1 5 5 3 3 4 2 3 "<1 mile" "weiblich" 3 3 0 1 0 0 0 0 0 0 0 0
+"Co-op" 360 NA "yes" NA 1 2 2 1 1 1 3 4 4 2 5 2 3 2 2 5 5 4 3 1 6 "1-5 miles" "männlich" 1 NA 0 0 0 0 0 0 0 0 0 1
+"Somerfields" 4320 125 "no" 2 5 1 1 5 5 5 1 5 1 1 1 1 1 5 1 1 1 1 1 5 1 "<1 mile" "männlich" 4 3 0 0 0 0 0 0 0 0 0 1
+"Tesco" 6720 375 "yes" 2 4 3 4 4 3 3 5 5 3 3 3 4 4 3 5 5 5 4 1 NA 6 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 375 "yes" 2 1 5 5 1 1 2 5 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"gateway" 1680 200 "yes" NA 5 5 5 5 1 1 1 5 2 2 3 2 2 2 5 5 3 2 5 1 4 "<1 mile" "weiblich" 2 4 0 0 0 0 0 0 1 0 0 0
+"Safeway" 3600 200 "yes" NA 3 2 5 4 2 1 5 5 5 5 4 4 5 4 5 5 5 4 5 4 6 "1-5 miles" "weiblich" 3 4 0 0 0 0 0 0 0 1 0 0
+"Tesco" 4500 375 "yes" NA 4 1 3 4 2 1 3 5 5 3 4 4 4 3 5 5 5 4 3 1 6 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Lo-cost" NA 125 "yes" NA 1 1 3 1 3 2 3 4 4 4 3 4 2 2 4 4 5 5 4 2 5 "1-5 miles" "männlich" 5 3 0 0 0 0 0 0 0 0 1 0
+"Kwik Save" 1680 200 "yes" NA 1 1 1 1 1 1 1 5 5 1 5 5 5 1 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 4 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 360 125 "yes" 2 1 5 5 1 1 1 1 5 5 5 5 5 4 4 3 5 5 5 4 1 5 "1-5 miles" "weiblich" 5 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 360 125 "yes" 2 1 5 5 1 1 1 1 5 5 5 5 5 4 4 3 5 5 5 4 1 5 "1-5 miles" "weiblich" 5 3 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3360 200 "yes" NA 1 1 2 1 4 3 5 5 3 3 4 5 3 5 5 5 4 4 3 1 7 "1-5 miles" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 200 "yes" NA 1 1 2 1 4 3 5 5 3 3 4 5 3 5 5 5 4 4 3 1 7 "1-5 miles" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1440 375 "yes" NA 3 4 5 2 2 2 2 5 4 4 4 5 5 3 5 5 5 5 4 2 6 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 NA "yes" NA 3 1 3 4 3 3 2 5 5 5 4 4 4 3 4 5 5 5 4 3 6 "1-5 miles" "männlich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 4500 200 "yes" NA 1 1 5 1 1 1 5 5 5 3 3 3 3 3 5 5 5 5 5 3 3 "1-5 miles" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 720 NA "yes" 2 2 4 5 1 3 1 5 4 4 5 5 5 4 5 5 5 5 5 4 1 4 "1-5 miles" "weiblich" 1 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 200 "yes" NA 3 1 5 1 1 1 1 5 5 3 3 3 3 1 3 5 5 4 4 1 5 "<1 mile" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3360 375 "yes" NA 2 3 4 3 3 1 1 4 5 3 3 3 3 3 4 5 4 4 3 2 5 "1-5 miles" "weiblich" 3 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1800 375 "yes" 2 5 5 5 5 3 5 5 5 5 5 5 5 5 1 5 5 5 5 5 3 5 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+NA 1680 375 "no" 2 5 5 5 5 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 "1-5 miles" "männlich" 1 5 NA NA NA NA NA NA NA NA NA NA
+"Sainsburys" 540 125 "yes" NA 2 5 5 4 3 4 5 5 5 4 4 5 4 3 5 5 4 5 5 4 5 "<1 mile" "weiblich" 5 3 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 5 1 5 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 5 1 5 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 1 7 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 4 2 4 5 2 2 4 5 5 3 3 4 4 2 2 4 5 5 3 3 6 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 80 "yes" 2 5 1 5 1 5 5 3 5 3 4 5 5 5 5 5 5 5 5 2 1 6 "1-5 miles" "weiblich" 5 2 1 0 0 0 0 0 0 0 0 0
+"Asda" 720 125 "yes" NA 1 1 5 1 5 5 3 5 4 5 5 5 5 5 4 5 5 3 2 1 6 "1-5 miles" "männlich" 5 3 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3000 200 "yes" NA 2 2 4 3 3 2 5 5 4 5 4 4 4 4 5 5 5 4 3 5 6 "5-10 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3000 200 "yes" NA 2 2 4 3 3 2 5 5 4 5 4 4 4 4 5 5 5 4 3 5 6 "5-10 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "yes" NA 3 3 2 1 3 4 1 5 5 2 4 4 4 3 3 4 4 5 3 1 6 "1-5 miles" "männlich" 1 6 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" NA 80 "yes" NA 2 1 5 1 4 3 1 5 4 5 2 5 5 3 5 5 5 5 3 2 6 "1-5 miles" "weiblich" 4 2 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3600 80 "yes" NA 4 1 1 1 4 3 3 4 4 3 4 3 4 5 5 5 5 5 4 5 7 "1-5 miles" "weiblich" 2 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 375 "yes" 2 1 5 5 1 3 5 5 5 5 5 5 5 5 4 5 5 5 5 5 4 6 "1-5 miles" "männlich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Pioneer" 1680 375 "yes" NA 2 1 2 1 4 1 3 4 5 5 4 4 4 2 4 4 5 4 3 1 5 "1-5 miles" "weiblich" 1 5 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 1440 80 "yes" NA 4 4 3 1 4 4 2 5 5 4 5 5 5 3 5 4 5 3 2 1 5 "<1 mile" "weiblich" 5 2 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1800 NA "yes" NA 1 1 1 1 3 1 1 5 5 4 3 5 4 5 5 5 5 5 3 1 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 NA "yes" NA 5 1 1 1 5 5 NA 5 5 4 5 5 5 5 5 5 5 5 2 1 4 "1-5 miles" "weiblich" 5 NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 80 "yes" NA 3 2 5 1 2 1 5 5 5 5 5 4 4 3 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 2 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 750 "yes" NA 3 1 1 1 2 3 5 5 4 3 2 3 4 1 2 1 5 5 4 3 6 "1-5 miles" "männlich" 2 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 3 1 1 1 3 1 4 5 4 4 4 4 4 2 4 4 4 4 4 1 6 "5-10 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 200 "yes" NA 2 3 2 4 2 2 3 5 3 3 3 3 3 4 3 3 5 4 2 2 5 "1-5 miles" "weiblich" 2 4 0 1 0 0 0 0 0 0 0 0
+"Tesco" 720 NA "yes" 2 1 1 5 1 3 2 5 5 5 5 5 5 5 3 5 5 5 5 5 1 6 "<1 mile" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 NA "yes" 2 1 1 5 1 3 2 5 5 5 5 5 5 5 3 5 5 5 5 5 1 6 "<1 mile" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 200 "yes" NA 5 3 4 4 4 3 3 4 5 4 3 5 4 4 5 3 5 5 5 4 5 "1-5 miles" "weiblich" 2 4 0 1 0 0 0 0 0 0 0 0
+"Sainsburys" 2100 60 "yes" 1 2 2 3 1 4 2 3 4 4 5 4 5 4 4 4 4 5 5 4 1 7 "1-5 miles" "weiblich" 2 1 0 0 1 0 0 0 0 0 0 0
+"Tesco" 2700 625 "yes" NA 3 3 3 3 3 3 3 3 1 2 2 2 2 2 5 5 5 5 5 5 5 "1-5 miles" "männlich" 1 6 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 720 60 "yes" NA 2 4 NA 4 5 3 1 4 4 5 5 5 4 5 5 5 4 4 4 4 NA "1-5 miles" "weiblich" 5 1 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 720 60 "yes" NA 2 4 NA 4 5 3 1 4 4 5 5 5 4 5 5 5 4 4 4 4 NA "1-5 miles" "weiblich" 5 1 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" 2 5 2 4 1 3 1 5 5 5 4 5 4 4 1 5 5 5 5 2 1 6 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 200 "yes" NA 2 1 3 1 4 1 1 5 5 5 2 4 5 2 5 3 4 4 4 1 5 "1-5 miles" "weiblich" 5 4 0 0 1 0 0 0 0 0 0 0
+"Tesco" 7200 375 "yes" NA 4 4 2 4 4 2 4 4 4 4 3 5 5 3 4 3 5 4 4 2 6 "1-5 miles" "männlich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 375 "yes" 2 5 1 1 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 1 7 "1-5 miles" "männlich" 5 5 1 0 0 0 0 0 0 0 0 0
+NA 3600 NA "yes" 2 5 5 5 1 3 1 3 5 5 5 5 5 5 5 5 5 5 5 2 1 5 "1-5 miles" "weiblich" 3 NA NA NA NA NA NA NA NA NA NA NA
+"Solo" NA 375 "yes" NA 2 5 5 3 2 3 3 4 4 4 3 2 2 3 3 5 5 5 4 3 NA "<1 mile" "weiblich" 2 5 0 0 0 1 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 3 1 5 4 3 1 3 5 5 5 5 5 5 4 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Safeway" 3600 NA "yes" NA 2 4 4 5 3 3 5 5 5 5 5 5 5 4 5 5 5 4 5 5 6 "<1 mile" "weiblich" 1 NA 0 0 0 0 0 0 0 1 0 0
+"Tesco" 1680 NA "yes" 2 3 4 5 5 3 4 5 5 5 4 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 3 4 5 5 3 4 5 5 5 4 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 5 5 1 5 2 1 5 5 2 5 5 5 5 5 5 5 5 5 5 1 5 "<1 mile" "weiblich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 5 5 1 5 2 1 5 5 2 5 5 5 5 5 5 5 5 5 5 1 5 "<1 mile" "weiblich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 3 2 3 2 4 3 2 4 4 3 3 4 3 3 4 4 5 5 3 3 6 "1-5 miles" "männlich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Safeway" 3360 750 "yes" NA 1 1 4 3 5 1 4 4 4 2 2 3 3 3 5 3 3 3 3 1 5 "1-5 miles" "männlich" 2 7 0 0 0 0 0 0 0 1 0 0
+"Sainsburys" 1260 375 "yes" NA 2 2 3 1 3 1 2 4 NA 3 1 3 4 3 4 3 5 4 4 1 6 "1-5 miles" "männlich" 5 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3360 200 "yes" NA 3 3 4 1 4 3 4 5 5 3 2 2 3 1 3 2 3 3 2 1 6 "1-5 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 5040 200 "yes" NA 3 5 5 5 2 2 5 5 5 3 5 5 4 3 5 5 5 4 5 2 3 "<1 mile" "weiblich" 2 4 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1440 80 "yes" NA 2 1 5 1 5 3 3 5 5 5 3 5 5 5 5 5 5 3 3 3 3 "<1 mile" "weiblich" 1 2 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 3 1 2 1 4 3 4 5 5 5 5 5 4 4 5 5 5 5 5 2 7 "1-5 miles" "männlich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 NA "yes" 2 1 1 4 1 5 5 5 5 5 5 5 5 5 2 5 5 5 5 5 1 6 "<1 mile" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 3600 NA "yes" 2 1 1 4 1 5 5 5 5 5 5 5 5 5 2 5 5 5 5 5 1 6 "<1 mile" "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Sainsburys" 1800 375 "yes" NA 2 1 5 1 4 1 4 5 4 3 4 5 4 3 5 5 4 4 4 1 6 "1-5 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 840 NA "yes" 2 4 4 4 5 4 5 5 5 4 5 5 4 2 5 5 5 5 5 3 1 NA NA "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 NA "yes" 2 4 4 4 5 4 5 5 5 4 5 5 4 2 5 5 5 5 5 3 1 NA NA "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Solo" NA 375 "yes" NA 2 3 4 4 3 2 4 5 5 4 3 4 4 3 5 5 5 5 4 1 6 "1-5 miles" "männlich" 3 5 0 0 0 1 0 0 0 0 0 0
+"Asda" 3600 200 "yes" NA 3 3 3 5 3 2 2 5 2 5 4 4 4 2 5 5 5 5 5 2 6 "5-10 miles" "weiblich" 2 4 0 0 0 0 1 0 0 0 0 0
+"Tesco" 6720 NA "yes" NA 3 3 3 3 3 3 4 5 NA 4 4 4 4 4 4 4 5 5 4 3 6 "1-5 miles" NA NA NA 1 0 0 0 0 0 0 0 0 0
+"Safeway" 3600 375 "yes" NA 2 2 1 1 3 1 1 4 5 2 3 3 3 2 3 2 5 5 2 1 2 "1-5 miles" "männlich" 3 5 0 0 0 0 0 0 0 1 0 0
+"Tesco" 3600 NA "yes" 2 3 1 5 1 5 5 5 5 3 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 3 1 5 1 5 5 5 5 3 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 5040 750 "yes" NA 4 4 4 2 4 3 3 4 4 4 3 4 4 3 4 4 5 5 4 1 6 "1-5 miles" "männlich" 4 7 1 0 0 0 0 0 0 0 0 0
+"Asda" 3600 625 "yes" NA 3 3 3 2 4 3 4 5 5 5 4 5 5 4 5 5 5 5 4 3 6 "1-5 miles" "männlich" 2 6 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 375 "yes" 2 4 5 5 1 5 3 4 5 5 5 5 5 5 1 5 5 5 4 1 1 6 "<1 mile" "weiblich" 1 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 10800 375 "yes" NA 2 1 5 1 5 5 5 5 4 4 4 5 5 3 3 5 5 5 3 1 5 "1-5 miles" "männlich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 10800 375 "yes" NA 2 1 5 1 5 5 5 5 4 4 4 5 5 3 3 5 5 5 3 1 5 "1-5 miles" "männlich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Asda" 1680 200 "yes" 2 5 1 3 5 5 3 5 5 5 5 5 5 5 1 5 5 5 5 4 1 7 "1-5 miles" "weiblich" 5 4 0 0 0 0 1 0 0 0 0 0
+"Asda" 1680 200 "yes" 2 5 1 3 5 5 3 5 5 5 5 5 5 5 1 5 5 5 5 4 1 7 "1-5 miles" "weiblich" 5 4 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 375 "yes" NA 3 3 3 1 4 4 3 5 5 4 2 3 4 2 4 3 4 4 4 1 6 "1-5 miles" "weiblich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 2 4 5 1 3 2 3 5 5 4 3 5 3 4 5 5 5 5 3 3 7 "1-5 miles" "männlich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 2 4 5 1 3 2 3 5 5 4 3 5 3 4 5 5 5 5 3 3 7 "1-5 miles" "männlich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Safeway" 3600 625 "yes" 2 1 1 1 5 3 1 1 5 5 5 5 3 3 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 6 0 0 0 0 0 0 0 1 0 0
+"Tesco" 1440 200 "yes" NA 3 2 5 5 4 2 5 5 5 5 4 5 4 3 5 5 5 5 4 2 5 "<1 mile" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1800 NA "no" 2 5 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" NA NA "yes" 2 5 1 1 5 5 5 4 5 4 5 5 5 5 5 3 4 5 5 5 1 NA NA "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" NA NA "yes" 2 5 1 1 5 5 5 4 5 4 5 5 5 5 5 3 4 5 5 5 1 NA NA "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3000 750 "yes" NA 3 2 5 1 3 1 3 5 4 5 3 4 5 1 5 3 5 5 5 1 7 "5-10 miles" "weiblich" 2 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1440 625 "yes" NA 3 3 5 1 5 1 3 5 4 5 5 5 4 4 5 5 3 3 4 1 5 "5-10 miles" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+NA NA 200 NA NA 2 2 4 1 5 5 3 5 5 5 4 5 5 5 5 4 5 5 5 3 6 "1-5 miles" "weiblich" 5 4 NA NA NA NA NA NA NA NA NA NA
+"Tesco" 5400 NA "yes" 2 5 1 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 5400 NA "yes" 2 5 1 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Asda" 3600 375 "yes" NA 2 5 4 5 3 3 4 5 5 5 4 3 3 4 3 5 5 3 3 1 6 "1-5 miles" "weiblich" 2 5 0 0 0 0 1 0 0 0 0 0
+"Sainsburys" 1680 200 "yes" 2 5 5 5 1 3 2 2 5 5 5 5 5 5 4 5 5 5 5 5 4 6 "1-5 miles" "weiblich" 1 4 0 0 1 0 0 0 0 0 0 0
+"Safeway" 6000 375 "yes" NA 4 4 2 1 3 2 3 5 4 4 3 5 5 4 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 3 5 0 0 0 0 0 0 0 1 0 0
+"Tesco" 3600 NA "yes" NA 4 1 5 1 4 3 4 5 5 4 3 4 4 4 5 5 5 5 4 5 7 "<1 mile" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2700 200 "yes" NA 1 5 4 4 4 3 4 5 5 4 4 4 3 4 4 2 4 3 3 1 6 ">10 miles" "männlich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 125 "yes" NA 5 1 4 1 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "männlich" 5 3 0 0 1 0 0 0 0 0 0 0
+"Tesco" 840 200 "no" 2 5 5 5 1 5 5 5 5 5 5 3 5 5 5 5 3 5 5 3 5 7 "<1 mile" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 200 "yes" 2 1 1 5 5 5 3 3 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 3 4 4 1 4 1 4 4 5 4 2 5 5 2 5 2 5 5 5 1 4 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 375 "yes" NA 1 1 1 1 3 1 2 5 5 3 3 3 3 3 5 5 5 5 3 1 6 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 3360 375 "yes" NA 3 2 5 2 5 2 4 5 5 5 4 5 5 5 5 5 5 3 3 3 7 "1-5 miles" "männlich" 2 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1260 200 "yes" NA 1 1 3 1 4 1 5 5 5 4 3 3 4 3 4 4 4 3 4 1 6 "1-5 miles" "männlich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Co-op" 1680 200 "yes" NA 5 3 3 3 3 3 3 5 5 3 4 4 4 4 3 5 5 4 5 1 5 "1-5 miles" "weiblich" 2 4 0 0 0 0 0 0 0 0 0 1
+"Kwik Save" 720 200 "yes" 2 1 1 5 3 5 4 5 5 5 5 5 5 5 4 5 5 5 5 5 5 7 "1-5 miles" "weiblich" 5 4 0 1 0 0 0 0 0 0 0 0
+"Iceland" NA 60 "no" 2 5 3 4 4 4 3 3 5 3 3 3 4 4 4 5 5 5 4 3 5 5 "<1 mile" "weiblich" 2 1 0 0 0 0 0 1 0 0 0 0
+"Tesco" 3600 625 "yes" NA 1 1 3 1 4 1 3 5 5 3 2 3 4 1 5 2 5 5 1 1 6 "1-5 miles" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 4 5 5 4 4 5 5 5 4 5 5 5 5 4 5 4 3 1 6 "<1 mile" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" NA 60 "yes" NA 3 2 5 1 4 1 4 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 1 0 0 1 0 0 0 0 0 0 0
+"Safeway" 3600 200 "no" 2 3 5 5 1 5 3 5 5 5 5 5 5 5 2 5 5 4 3 4 1 5 "1-5 miles" "weiblich" 2 4 0 0 0 0 0 0 0 1 0 0
+"Sainsburys" 840 375 "yes" NA 4 3 3 1 4 1 4 5 5 4 3 4 4 3 4 4 4 4 3 1 6 "1-5 miles" "weiblich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 4500 750 "yes" NA 3 4 3 1 4 2 3 4 4 4 4 4 4 4 5 5 5 5 5 1 5 "5-10 miles" "männlich" 3 7 1 0 0 0 0 0 0 0 0 0
+"Asda" 2700 625 "yes" NA 2 2 2 5 4 3 1 5 5 5 5 4 4 4 4 4 5 5 5 1 NA "1-5 miles" "weiblich" 2 6 0 0 0 0 1 0 0 0 0 0
+"Safeway" 2160 625 "yes" NA 2 1 3 1 4 1 4 4 5 3 5 2 3 1 4 4 5 4 3 1 5 "1-5 miles" "männlich" 3 6 0 0 0 0 0 0 0 1 0 0
+"Sainsburys" 1680 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 1 5 "1-5 miles" "männlich" 1 NA 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3360 750 "yes" NA 4 3 4 3 5 3 4 5 5 4 5 5 5 2 5 5 5 3 3 1 6 "1-5 miles" "männlich" 2 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 NA "yes" NA 2 2 4 1 4 2 5 5 5 4 4 5 5 4 5 5 5 5 5 4 4 "1-5 miles" "weiblich" 4 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 750 "yes" NA 3 3 3 2 4 2 3 4 5 3 3 3 3 4 5 5 5 5 4 1 5 "1-5 miles" "weiblich" 3 7 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1800 200 "yes" 2 3 3 1 1 5 3 2 5 5 4 5 5 3 5 5 5 5 4 2 1 6 "1-5 miles" NA 2 4 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 5040 125 "yes" 2 3 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 4 "1-5 miles" "weiblich" 1 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 5040 125 "yes" 2 3 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 4 "1-5 miles" "weiblich" 1 3 0 1 0 0 0 0 0 0 0 0
+"Solo" 1680 125 "yes" NA 4 2 5 5 4 2 5 5 5 4 5 4 4 3 4 NA 5 4 4 2 5 "<1 mile" "weiblich" 3 3 0 0 0 1 0 0 0 0 0 0
+"Asda" 3600 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 NA 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3600 NA "yes" NA 4 3 2 2 5 5 5 5 5 5 3 4 5 5 5 5 5 4 5 4 6 "5-10 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 4 5 5 5 5 5 4 1 7 "1-5 miles" "männlich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 200 "yes" NA 1 2 2 1 4 1 3 5 4 4 4 4 4 3 5 5 5 5 3 1 7 "5-10 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" 2 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Asda" 1680 375 "yes" NA 5 3 3 3 5 4 4 5 4 5 5 5 5 5 5 5 5 5 5 3 6 "5-10 miles" "weiblich" 2 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 2 1 2 1 5 2 5 5 5 4 4 5 5 2 5 4 5 5 4 1 7 "1-5 miles" "weiblich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 375 "yes" 2 5 5 1 1 5 3 5 5 5 5 5 5 5 2 5 5 5 5 3 1 6 "1-5 miles" "weiblich" 1 5 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 1680 375 "yes" 2 4 5 5 1 5 5 1 5 5 5 5 5 5 1 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 4 5 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 200 "yes" 2 5 4 5 5 5 5 5 5 5 5 5 5 4 4 5 5 5 5 5 3 6 "<1 mile" "weiblich" 3 4 0 1 0 0 0 0 0 0 0 0
+"Asda" 3600 375 "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "5-10 miles" "weiblich" 1 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1800 375 "yes" NA 2 3 2 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 1 5 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 625 "yes" NA 2 2 2 1 5 3 3 5 5 4 5 5 4 2 4 3 5 5 3 1 6 "1-5 miles" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "yes" 2 5 5 4 5 5 4 4 5 5 5 5 5 5 5 5 5 5 5 4 5 5 "1-5 miles" "weiblich" NA 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 5 4 5 5 5 5 5 5 5 5 5 1 5 5 5 5 5 1 5 "1-5 miles" "männlich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 1 1 1 1 5 1 5 5 5 5 5 5 5 1 4 2 5 5 3 2 7 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 4 1 5 4 5 2 5 5 5 5 5 5 5 3 5 5 5 5 5 2 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 4 1 5 4 5 2 5 5 5 5 5 5 5 3 5 5 5 5 5 2 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 3 3 1 1 4 2 2 5 4 4 5 3 3 5 5 5 5 4 2 2 6 "1-5 miles" "männlich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" NA 3 3 1 1 4 2 2 5 4 4 5 3 3 5 5 5 5 4 2 2 6 "1-5 miles" "männlich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 5 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 200 "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "männlich" 3 4 0 0 1 0 0 0 0 0 0 0
+"Asda" 420 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 4 NA 0 0 0 0 1 0 0 0 0 0
+"Asda" 1800 NA "yes" 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7 "1-5 miles" "weiblich" 2 NA 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 5 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 6 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 5 1 5 5 5 5 5 5 5 5 5 5 5 4 5 5 5 1 5 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 5040 375 "yes" NA 1 4 4 4 4 1 4 4 4 4 4 4 4 4 3 5 5 4 5 1 7 "1-5 miles" "weiblich" 5 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 1 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 5 "<1 mile" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 1 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 5 "<1 mile" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 2 1 5 1 4 1 5 5 3 4 4 3 3 5 5 5 5 5 3 1 1 "1-5 miles" "weiblich" 1 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1260 625 "yes" NA 1 4 3 5 4 3 2 5 4 3 5 3 5 5 5 5 5 5 4 5 6 "1-5 miles" "männlich" 2 6 0 0 1 0 0 0 0 0 0 0
+"Pioneer" 900 375 "yes" 2 5 5 5 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 1 5 0 0 0 0 0 0 0 0 0 1
+"Tesco" 3600 375 "yes" 2 5 3 5 1 5 5 5 5 5 5 5 3 5 5 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 60 "yes" NA 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 NA "1-5 miles" "weiblich" 2 1 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 375 "yes" 2 4 5 5 1 5 5 5 5 5 5 5 5 5 4 5 5 5 5 5 5 6 "1-5 miles" "weiblich" 3 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1800 200 "yes" NA 4 1 4 1 5 2 5 5 4 4 4 4 5 5 5 5 5 4 4 2 7 "5-10 miles" "weiblich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 900 375 "yes" 2 5 5 3 1 4 2 5 5 5 5 5 5 5 2 5 4 5 5 5 1 6 "1-5 miles" "männlich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 2 2 4 5 5 2 3 5 5 5 3 4 4 4 5 4 5 4 4 NA 5 "5-10 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 840 125 "no" 2 3 4 4 1 5 1 5 5 2 2 3 1 1 3 2 1 1 2 1 5 2 "1-5 miles" "weiblich" 1 3 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 840 125 "no" 2 3 4 4 1 5 1 5 5 2 2 3 1 1 3 2 1 1 2 1 5 2 "1-5 miles" "weiblich" 1 3 0 1 0 0 0 0 0 0 0 0
+"Safeway" 7200 750 "yes" NA 3 4 3 5 4 1 3 5 5 5 3 5 5 3 5 4 5 5 5 1 7 "1-5 miles" "weiblich" 2 7 0 0 0 0 0 0 0 1 0 0
+"Tesco" 3360 200 "yes" 2 3 5 5 1 5 2 4 5 5 5 5 5 5 5 5 5 5 4 3 1 5 "1-5 miles" "männlich" 4 4 1 0 0 0 0 0 0 0 0 0
+"Asda" 3600 375 "yes" NA 3 5 2 1 5 3 2 4 4 3 3 3 3 2 3 3 4 4 4 3 6 "1-5 miles" "weiblich" 3 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3600 750 "yes" NA 5 3 5 2 5 2 3 5 5 5 4 5 4 4 5 5 5 4 4 2 5 "1-5 miles" "weiblich" 1 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2520 NA "no" 1 2 4 5 1 5 5 5 5 3 5 4 5 3 1 5 5 5 4 5 1 6 "<1 mile" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2520 NA "no" 1 2 4 5 1 5 5 5 5 3 5 4 5 3 1 5 5 5 4 5 1 6 "<1 mile" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 1 1 4 5 5 1 1 5 5 5 4 5 5 1 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 360 NA "yes" 2 5 5 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 "1-5 miles" "weiblich" NA NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 NA "yes" 2 1 5 5 5 5 1 1 5 5 5 2 5 5 5 5 5 5 5 2 1 6 "1-5 miles" "männlich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 5040 125 "yes" NA 5 5 5 3 5 4 4 5 5 5 4 5 5 5 5 5 5 5 5 5 6 "1-5 miles" "männlich" 4 3 0 1 0 0 0 0 0 0 0 0
+"Asda" 3600 200 "yes" NA 3 4 5 1 4 3 4 5 4 4 4 4 4 5 5 4 5 5 5 2 5 "1-5 miles" "weiblich" 2 4 0 0 0 0 1 0 0 0 0 0
+"Tesco" NA 80 "yes" NA 2 1 5 1 5 1 4 5 5 5 4 5 5 5 5 5 5 5 5 2 NA "1-5 miles" "weiblich" 2 2 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 2100 625 "yes" NA 1 1 1 1 1 1 1 5 5 1 1 1 1 1 1 5 5 5 5 1 7 "1-5 miles" "männlich" 4 6 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 2100 625 "yes" NA 1 1 1 1 1 1 1 5 5 1 1 1 1 1 1 5 5 5 5 1 7 "1-5 miles" "männlich" 4 6 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" NA 3 4 5 4 5 3 3 5 5 4 2 5 4 5 5 3 5 5 4 3 6 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 750 "yes" 2 2 4 1 1 3 1 2 5 5 2 5 4 4 3 4 4 5 4 4 1 5 "1-5 miles" "männlich" 4 7 0 0 1 0 0 0 0 0 0 0
+"Tesco" NA NA "yes" 2 5 5 5 5 5 3 4 5 4 5 4 5 5 4 4 5 5 5 4 1 6 "1-5 miles" "männlich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Asda" 3600 NA "yes" 0 4 5 5 1 5 3 3 5 5 5 5 5 5 1 5 5 5 5 4 1 5 "5-10 miles" "männlich" 1 NA 0 0 0 0 1 0 0 0 0 0
+"Sainsburys" 1680 NA "yes" 2 5 5 5 1 5 3 5 5 5 5 5 5 5 4 5 5 5 5 4 4 5 "1-5 miles" "männlich" 3 NA 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 1680 375 "yes" 2 5 5 1 5 5 2 5 5 5 5 5 2 5 5 5 5 5 5 2 5 5 "1-5 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 1 5 5 1 5 2 2 5 5 4 3 4 3 1 5 3 5 3 1 1 5 "<1 mile" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 720 375 "yes" NA 1 1 4 1 3 1 1 5 3 1 1 1 4 1 4 3 5 5 3 1 5 "1-5 miles" "männlich" 1 5 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "yes" 2 2 1 4 1 5 2 2 5 3 3 5 5 4 1 5 5 5 3 5 1 3 "<1 mile" "weiblich" 2 2 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 80 "yes" 2 2 1 4 1 5 2 2 5 3 3 5 5 4 1 5 5 5 3 5 1 3 "<1 mile" "weiblich" 2 2 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" NA 2 1 3 1 5 1 3 4 4 3 1 3 3 2 4 4 5 5 4 1 5 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 375 "yes" 2 5 5 5 1 4 1 1 5 5 5 5 5 5 5 5 5 5 5 5 2 5 NA "weiblich" 1 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "yes" 2 3 1 1 5 5 1 3 5 4 4 5 5 5 1 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "yes" 2 3 1 1 5 5 1 3 5 4 4 5 5 5 1 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 1 3 5 3 3 5 3 4 5 5 5 5 5 5 5 5 4 1 7 "1-5 miles" "männlich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 1 3 5 3 3 5 3 4 5 5 5 5 5 5 5 5 4 1 7 "1-5 miles" "männlich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Aldi" 18000 625 "yes" NA 3 5 4 3 4 2 3 5 5 4 5 5 4 5 5 5 5 5 5 3 5 "1-5 miles" "männlich" 1 6 0 0 0 0 0 0 0 0 0 1
+"Lo-cost" 2160 60 "no" 2 1 4 1 1 4 1 2 5 5 4 3 4 4 2 4 NA 5 5 3 1 4 "<1 mile" "weiblich" 1 1 0 0 0 0 0 0 0 0 1 0
+"Sainsburys" 1680 625 "yes" NA 2 3 2 1 4 1 5 5 4 5 5 4 5 2 4 4 5 5 5 1 6 "1-5 miles" "weiblich" 3 6 0 0 1 0 0 0 0 0 0 0
+"Asda" 7200 NA "yes" NA 1 1 2 3 5 1 1 5 4 4 3 5 4 3 4 3 5 5 4 3 5 "1-5 miles" "weiblich" 4 NA 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 200 "yes" 2 1 1 1 1 5 2 3 5 5 5 4 5 1 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" 2 1 1 1 1 5 2 3 5 5 5 4 5 1 5 5 5 5 5 5 1 7 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3360 NA "yes" 2 5 5 5 1 5 3 5 5 5 5 5 5 5 5 5 5 5 5 5 1 5 "1-5 miles" "männlich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3000 375 "yes" NA 2 3 5 3 5 3 2 5 5 3 5 5 5 4 5 5 5 5 5 2 5 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Asda" 1680 200 "yes" NA 3 4 4 4 4 1 4 5 4 3 3 5 4 4 3 5 5 5 4 3 5 "1-5 miles" "weiblich" 2 4 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3600 NA "yes" 2 1 1 5 1 5 1 5 5 5 5 5 5 5 5 3 5 5 5 5 1 5 "1-5 miles" "weiblich" 3 NA 1 0 0 0 0 0 0 0 0 0
+"Kwik Save" 420 NA "yes" 2 5 5 1 5 5 5 3 5 2 3 5 5 3 5 5 5 5 5 5 1 NA NA "weiblich" 2 NA 0 1 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "yes" NA 2 4 4 1 4 1 5 5 5 2 5 5 5 2 5 5 5 5 4 1 7 "5-10 miles" "weiblich" 3 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 5 1 3 2 5 5 5 4 5 3 1 3 5 5 5 5 5 2 5 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" 2 5 5 5 5 5 3 1 5 5 5 5 5 4 1 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 840 200 "yes" NA 4 5 2 1 5 1 5 5 4 3 4 4 4 2 4 4 3 4 4 1 5 "1-5 miles" "weiblich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 720 60 "yes" NA 1 2 3 1 4 1 1 5 4 4 4 5 4 4 1 5 5 5 5 1 5 "1-5 miles" "weiblich" 2 1 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 200 "yes" NA 5 5 4 1 5 4 5 5 5 5 5 4 5 1 4 5 5 5 5 1 6 "1-5 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 5 5 5 1 5 1 1 5 5 5 5 4 4 4 4 4 4 5 4 5 6 "1-5 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Safeway" 1680 375 "yes" NA 2 3 1 1 4 1 3 5 5 2 1 3 3 2 4 4 5 4 3 1 5 "1-5 miles" "männlich" 4 5 0 0 0 0 0 0 0 1 0 0
+"Tesco" 1680 750 "yes" NA 1 3 1 1 4 1 3 5 5 2 3 4 4 1 4 5 5 5 4 1 6 "1-5 miles" "männlich" 2 7 1 0 0 0 0 0 0 0 0 0
+"Tesco" 5040 200 "yes" NA 1 1 4 1 4 1 3 5 4 1 5 3 3 1 4 5 5 5 3 1 5 "<1 mile" "männlich" 5 4 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" 2 3 5 5 5 5 1 1 5 5 5 5 5 5 1 5 5 5 5 4 1 5 "1-5 miles" "weiblich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 1 1 1 1 5 1 1 5 5 2 2 5 5 2 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 4 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" 2 5 5 1 1 5 2 5 5 5 5 5 5 5 2 5 5 5 5 5 1 5 "<1 mile" "weiblich" 1 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 375 "yes" 2 1 5 5 1 5 1 3 5 5 5 4 5 4 4 5 5 5 4 3 1 3 "1-5 miles" "männlich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2100 NA "yes" NA 4 4 2 3 4 1 1 5 1 3 5 5 5 4 3 4 5 5 5 5 7 "5-10 miles" "männlich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 7200 NA "yes" 2 5 5 4 1 5 1 5 5 3 5 5 5 5 2 5 5 5 4 5 1 6 "1-5 miles" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "yes" NA 3 1 1 1 5 1 3 5 5 5 1 4 2 5 5 4 5 5 5 1 7 "<1 mile" "weiblich" 5 NA 1 0 0 0 0 0 0 0 0 0
+"Pioneer" 7200 NA "yes" 2 5 5 5 5 5 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 "1-5 miles" "weiblich" 3 NA 0 0 0 0 0 0 0 0 0 1
+"Tesco" 1680 200 "yes" NA 3 3 2 2 5 3 5 5 4 3 5 3 3 3 3 5 5 3 3 1 6 "1-5 miles" "weiblich" 3 4 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" NA 5 5 4 1 5 1 5 5 4 5 5 5 5 2 4 4 5 4 4 1 7 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Asda" 1680 200 "yes" NA 5 5 5 1 5 3 2 5 4 5 5 4 4 5 5 5 5 5 5 1 6 "1-5 miles" "männlich" 3 4 0 0 0 0 1 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 5 5 5 1 3 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "<1 mile" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2100 375 "yes" 2 5 5 5 5 5 1 1 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "<1 mile" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Solo" 3360 125 "yes" 2 5 5 2 4 5 5 1 5 4 5 2 2 2 5 5 3 5 5 5 5 6 "1-5 miles" "weiblich" 3 3 0 0 0 1 0 0 0 0 0 0
+"Solo" 3360 125 "yes" 2 5 5 2 4 5 5 1 5 4 5 2 2 2 5 5 3 5 5 5 5 6 "1-5 miles" "weiblich" 3 3 0 0 0 1 0 0 0 0 0 0
+"Sainsburys" 3600 375 "yes" NA 3 3 4 1 5 2 4 5 4 3 3 4 4 4 5 5 5 5 4 3 5 "1-5 miles" "weiblich" 4 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 7200 375 "yes" 2 5 5 5 5 5 1 5 5 5 5 5 5 5 5 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"gateway" 1260 125 "no" 2 5 5 5 5 5 5 5 5 5 3 5 2 5 1 5 5 5 4 5 1 3 "<1 mile" "weiblich" 1 3 0 0 0 0 0 0 1 0 0 0
+"Tesco" 1680 NA "yes" 2 5 5 4 5 5 1 4 5 5 5 5 5 5 3 5 5 5 5 5 1 5 "1-5 miles" "weiblich" 1 NA 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" 2 5 5 5 5 5 1 4 5 5 5 5 5 5 5 2 5 5 5 4 1 5 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Asda" NA 375 "yes" NA 3 5 2 1 5 3 3 5 5 4 5 5 4 2 3 5 5 5 5 5 2 "1-5 miles" "weiblich" 1 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1680 375 "yes" 2 5 5 5 4 5 1 4 5 5 5 5 5 5 5 5 5 5 5 5 3 5 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 NA "no" 2 3 5 5 5 5 1 5 5 5 5 5 5 5 3 5 5 5 5 5 1 6 "1-5 miles" "weiblich" 2 NA 1 0 0 0 0 0 0 0 0 0
+"Asda" 3600 375 "yes" 2 5 5 3 1 5 3 1 5 5 3 3 3 3 1 5 5 5 5 3 1 NA NA "männlich" 1 5 0 0 0 0 1 0 0 0 0 0
+"Asda" 3600 375 "yes" 2 5 5 3 1 5 3 1 5 5 3 3 3 3 1 5 5 5 5 3 1 NA NA "männlich" 1 5 0 0 0 0 1 0 0 0 0 0
+"Tesco" 1800 625 "yes" 2 2 5 3 1 5 1 5 5 5 5 5 5 5 4 5 5 5 5 5 1 5 "<1 mile" "weiblich" 2 6 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 200 "yes" NA 5 5 5 1 5 3 3 5 4 4 5 4 4 5 5 5 5 4 5 2 6 "1-5 miles" "weiblich" 3 4 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 840 375 "yes" 2 5 5 1 1 5 1 2 5 5 4 5 5 5 5 5 5 5 5 5 1 6 NA "männlich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 840 375 "yes" 2 5 5 1 1 5 1 2 5 5 4 5 5 5 5 5 5 5 5 5 1 6 NA "männlich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Sainsburys" 1800 200 "yes" NA 2 3 3 1 5 1 1 5 5 5 3 4 5 4 3 5 5 5 5 1 6 "1-5 miles" "männlich" 5 4 0 0 1 0 0 0 0 0 0 0
+"Kwik Save" 1680 375 "yes" 2 1 5 3 1 5 1 5 5 5 5 5 5 5 5 5 5 5 3 5 1 5 "1-5 miles" "weiblich" 3 5 0 1 0 0 0 0 0 0 0 0
+"Kwik Save" 1680 375 "yes" 2 1 5 3 1 5 1 5 5 5 5 5 5 5 5 5 5 5 3 5 1 5 "1-5 miles" "weiblich" 3 5 0 1 0 0 0 0 0 0 0 0
+"Tesco" 1440 125 "yes" NA 5 5 5 1 5 1 5 5 5 5 5 4 4 4 5 5 5 4 5 2 6 "1-5 miles" "weiblich" 2 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 200 "yes" 2 1 5 5 4 5 1 1 5 5 5 3 5 5 5 3 2 5 5 5 4 6 "1-5 miles" "weiblich" 2 4 1 0 0 0 0 0 0 0 0 0
+"Pioneer" 5400 625 "yes" NA 1 1 1 1 5 1 3 5 5 2 5 3 3 5 5 5 5 1 5 1 6 "<1 mile" "weiblich" 4 6 0 0 0 0 0 0 0 0 0 1
+"Sainsburys" 1680 375 "yes" NA 5 5 5 1 5 1 3 5 4 5 5 4 4 4 4 5 5 4 5 1 6 "1-5 miles" "weiblich" 3 5 0 0 1 0 0 0 0 0 0 0
+"Tesco" 3600 375 "yes" NA 1 5 5 3 5 3 2 5 5 1 1 3 4 1 5 4 5 5 3 1 1 "1-5 miles" "weiblich" 2 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 2160 375 "yes" 2 5 5 1 1 5 1 5 5 5 5 5 5 1 1 5 5 5 5 5 1 6 "<1 mile" "weiblich" 3 5 1 0 0 0 0 0 0 0 0 0
+"Tesco" 3600 625 "no" 1 1 5 5 1 5 1 5 5 5 5 5 5 4 5 2 5 5 5 5 5 6 "1-5 miles" "weiblich" 3 6 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" 2 4 5 3 1 5 1 3 5 4 1 5 5 4 5 5 5 5 5 4 1 5 "1-5 miles" "männlich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Tesco" 1680 125 "yes" 2 4 5 3 1 5 1 3 5 4 1 5 5 4 5 5 5 5 5 4 1 5 "1-5 miles" "männlich" 5 3 1 0 0 0 0 0 0 0 0 0
+"Sainsburys" 1680 375 "yes" 2 5 5 5 5 5 1 5 5 5 5 5 2 2 4 5 5 5 5 5 1 6 ">10 miles" "weiblich" 2 5 0 0 1 0 0 0 0 0 0 0
+"Aldi" 1680 200 "yes" NA 1 1 2 1 5 1 3 5 1 2 1 1 3 1 1 5 5 5 5 1 5 "5-10 miles" "weiblich" 3 4 0 0 0 0 0 0 0 0 0 1
