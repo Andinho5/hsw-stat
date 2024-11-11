@@ -108,7 +108,7 @@ fa.diagram(pca.smdr, cut=0.5, cex=0.7, rsize=0.8, main="")
 par(op)
 
 # wie sieht es bei zwei Komponenten aus?
-pca.smd2<-principal(smd, 2)
+pca.smd2<-prcomp(smd)
 pca.smd2$criteria <- NULL
 print(pca.smd2, cut=0.5, sort=TRUE, digits=2)
 
